@@ -1,0 +1,1317 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An impartial survey and comparison of the Protestant religion as by law established, with the main doctrines of popery wherein is shewn that popery is contrary to scripture, primitive fathers and councils ... / by a true son of the Protestant Church of England as established by law.</title>
+            <author>Burnet, Gilbert, 1643-1715.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 120 KB of XML-encoded text transcribed from 41 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A30358</idno>
+            <idno type="STC">Wing B5804</idno>
+            <idno type="STC">ESTC R37520</idno>
+            <idno type="EEBO-CITATION">16965234</idno>
+            <idno type="OCLC">ocm 16965234</idno>
+            <idno type="VID">105532</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A30358)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105532)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1610:39)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An impartial survey and comparison of the Protestant religion as by law established, with the main doctrines of popery wherein is shewn that popery is contrary to scripture, primitive fathers and councils ... / by a true son of the Protestant Church of England as established by law.</title>
+                  <author>Burnet, Gilbert, 1643-1715.</author>
+               </titleStmt>
+               <extent>[24], 50, [5] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Chiswell ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLXXXV [1685]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title: The Protestants companion.</note>
+                  <note>Attributed by Wing and NUC pre-1956 imprints to Burnet.</note>
+                  <note>Advertisements: [5] p. at end.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature.</term>
+               <term>Church of England --  Doctrines.</term>
+               <term>Anti-Catholicism.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:105532:1"/>
+            <p>AN IMPARTIAL SURVEY AND COMPARISON OF THE Proteſtant Religion, As by Law Eſtabliſhed; With the main Doctrines of Popery: Wherein is ſhewn, That Popery is contrary to Scripture, Primitive Fa<g ref="char:EOLhyphen"/>thers and Councils; and that proved from Holy Writ, the Wri<g ref="char:EOLhyphen"/>tings of the Antient Fathers for ſeveral Hundred Years, and the Confeſſion of the moſt Learned Papiſts themſelves. Whereby the Papiſts vain pretence to Antiquity, and their reproaching the Proteſtant Doctrines with Novelty, is wholly overthrown. By a <hi>True Son</hi> of the Proteſtant Church of <hi>England,</hi> as eſtabliſhed by Law.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Chiſwell,</hi> at the <hi>Roſe</hi> and <hi>Crown</hi> in St. <hi>Paul</hi>'s Church-yard. MDCLXXXV.</p>
+         </div>
+         <div type="epigraph">
+            <pb facs="tcp:105532:2"/>
+            <pb facs="tcp:105532:2"/>
+            <q>ALL Scripture is given by inſpiration of God, and is profitable for doctrine, for reproof, for correction, for inſtruction in righ<g ref="char:EOLhyphen"/>teouſneſs,
+<bibl>
+                  <hi>2 Tim. 3. 16.</hi>
+               </bibl>
+            </q>
+            <q>In vain they do worſhip me, teaching for doctrines the commandments of men,
+<bibl>
+                  <hi>Matt. 15.9.</hi>
+               </bibl>
+            </q>
+            <q>—But from the beginning it was not ſo,
+<bibl>
+                  <hi>Matth. 19.8.</hi>
+               </bibl>
+            </q>
+            <q>
+               <hi>Non audiatur haec dico, haec dicis, ſed haec dicit dominus.</hi>
+               <bibl>Auguſtin. <hi>de unit. Eccleſ. contr. Petil. c. 3.</hi>
+               </bibl>
+            </q>
+            <q>
+               <hi>Id verius quod prius, id prius quod &amp; ab initio, ab initio quod ab Apoſtolis.</hi>
+               <bibl>Tertullian. <hi>adverſ. Marcion. l. 4. c. 5.</hi>
+               </bibl>
+            </q>
+            <q>
+               <hi>Id eſſe verum quodcun<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> primum, id eſſe adulterinum quodcun<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> poſterius.</hi>
+               <bibl>
+                  <hi>Idem adverſ. Praxeam, c. 2.</hi>
+               </bibl>
+            </q>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:105532:3"/>
+            <head>THE PREFACE TO THE Proteſtant Reader.</head>
+            <p>AS we have immortal Souls of infinite more value than all tranſi<g ref="char:EOLhyphen"/>ent glories and ſublunary ad<g ref="char:EOLhyphen"/>vantages; ſo ought we both in obedience to the tender and compaſſionate advice of our Bleſſed Redeemer (who pur<g ref="char:EOLhyphen"/>chaſed them with his own dear Blood,) and out of a true concern for our Eternal Wel<g ref="char:EOLhyphen"/>fare,
+<pb facs="tcp:105532:4"/>to live ſuch lives here as we may be happy hereafter. Purſuant to this excellent de<g ref="char:EOLhyphen"/>ſign, We ought carefully at<g ref="char:EOLhyphen"/>tend to that Holy Religion we have ſo long profeſſed, which teaches no Doctrines that are not agreeable to the Holy Scrip<g ref="char:EOLhyphen"/>tures, and to the practice of the beſt and pureſt Ages of Chri<g ref="char:EOLhyphen"/>ſtianity. A Religion, which neither robs God of his Ho<g ref="char:EOLhyphen"/>nour, nor the King of his due; a Religion, whoſe venerable Rites keep a juſt <hi>medium</hi> be<g ref="char:EOLhyphen"/>twixt vain Popiſh Pomp, and Fanatical Indecency; a Re<g ref="char:EOLhyphen"/>ligion that not only teaches us how to be good, but obliges us ſo to be, that is, a Religion
+<pb facs="tcp:105532:4"/>truly Chriſtian, and a Copy of that perfect Original which our Lord and Saviour hath left us for our direction. And therefore as nothing ought to be dearer to us; ſo we cannot be ſufficiently thankful to his Sacred Majeſty (whom God preſerve) for the Gracious aſ<g ref="char:EOLhyphen"/>ſurance he has given, that he will ſupport it, and defend us in the profeſſion of it. A King whoſe Royal Progenitors of Immortal Memory for above 100 years, have not only been the Ornaments but the ſupports too of the Proteſtant Religion; His fam'd Grandfather King <hi>James</hi> Learnedly defending it by his Pen, and thereby juſtly
+<pb facs="tcp:105532:5"/>meriting the glorious Title of its <hi>Defender;</hi> His Excellent
+<note n="(c)" place="margin">For ſo doth <hi>Monſ. Militere.</hi> in his Epiſtle to His late Maje<g ref="char:EOLhyphen"/>ſty, confeſs.</note> Father dying a Glorious Martyr, and his late dearly be<g ref="char:EOLhyphen"/>loved Brother being a long time Exile for our Reformed Re<g ref="char:EOLhyphen"/>ligion. Let us then ſtrive to ſhew that we are not unworthy of ſo Illuſtrious and Valiant a Protector, by our Loyalty to him; not unworthy of ſuch a Religion by our conformity to its Principles, in Holineſs, Sobri<g ref="char:EOLhyphen"/>ety and Charity, and a ſted<g ref="char:EOLhyphen"/>faſt adherence to it, in oppoſi<g ref="char:EOLhyphen"/>tion to any other that will de<g ref="char:EOLhyphen"/>ſtroy that which our Church hath built upon ſo ſure a foun<g ref="char:EOLhyphen"/>dation. And that we may rightly underſtand what this
+<pb facs="tcp:105532:5"/>Religion is, and the difference betwixt that which is eſtabliſh<g ref="char:EOLhyphen"/>ed in our Church, and what is owned in the Church of <hi>Rome,</hi> I have made the following Col<g ref="char:EOLhyphen"/>lection; wherein is demonſtra<g ref="char:EOLhyphen"/>ted how contrary the Popiſh Religion is to our Church, and how inconſiſtent with Scrip<g ref="char:EOLhyphen"/>ture, the practice of the Primi<g ref="char:EOLhyphen"/>tive and beſt Ages of Chriſti<g ref="char:EOLhyphen"/>anity, and that prov'd, not on<g ref="char:EOLhyphen"/>ly from the Writings of the A<g ref="char:EOLhyphen"/>poſtles, and choice Records of Antiquity, but even granted to be ſo by the moſt
+<note n="(d)" place="margin">Vives de Inſtrumentis probab.</note> learn<g ref="char:EOLhyphen"/>ed and no leſs impartial Papiſts themſelves; which as it is the teſtimony of one Friend againſt another, is lookt upon as an
+<pb facs="tcp:105532:6"/>undenyable Evidence.</p>
+            <p>Before I conclude, I muſt ad<g ref="char:EOLhyphen"/>moniſh the Reader, that I have not rendered the Authors at large, but ſo quoted them, that the Learned may examine them; nor have I drawn Arguments (as uſually) from them, be<g ref="char:EOLhyphen"/>cauſe that would have made this Book (deſign'd for a Poc<g ref="char:EOLhyphen"/>ket-companion) to have ſwell'd into a great Volume; yet to make requital for that juſt o<g ref="char:EOLhyphen"/>miſſion, I have, at the conclu<g ref="char:EOLhyphen"/>ſion of each Section, directed the Reader to other Writers of our Religion, which treat of that particular Controverſy at large.</p>
+            <pb facs="tcp:105532:6"/>
+            <p>
+               <hi>May then the All-wiſe God, by whoſe Divine permiſſion thus much hath been perform'd, ſo bleſs this poor labour of his un<g ref="char:EOLhyphen"/>worthy Servant, that it may be inſtrumental to the good of his Church, and the confirming of all our weak Brethren in our moſt Holy Faith; which was the prin<g ref="char:EOLhyphen"/>cipal deſign of its publication.</hi>
+            </p>
+         </div>
+         <div type="introduction">
+            <pb facs="tcp:105532:7"/>
+            <pb facs="tcp:105532:7"/>
+            <head>THE INTRODUCTION.</head>
+            <p>
+               <hi>THE Church of</hi> Rome, <hi>though ſhe talk aloud of the Antiqui<g ref="char:EOLhyphen"/>ty of, and an univerſal conſent in her Doctrines, is ſo far from either, That therein ſhe will be tied to no Rule, nor obſerve any Law, as if ſhe would verify that Remarque of</hi>
+               <note n="(1)" place="margin">Crantzius Metropol. 7.45.</note> Crantzius <hi>upon her in another Caſe,</hi> Nunc ad ſe omnium Eccleſiarum jura traxit Ro<g ref="char:EOLhyphen"/>mana Eccleſia, <hi>That ſhe hath engroſſed to her ſelf all the priviledges or rights of other Churches. Her greateſt</hi>
+               <note n="(2)" place="margin">
+                  <hi>Bellarmin de verbo dei</hi> l. 4. c. 4.—<hi>Pighi<g ref="char:EOLhyphen"/>us Eccleſ. Hie<g ref="char:EOLhyphen"/>rarch. l.</hi> 3. <hi>c.</hi> 3. <hi>Pool de prima<g ref="char:EOLhyphen"/>tu Romanae Ec<g ref="char:EOLhyphen"/>cleſiae fol.</hi> 92.</note> 
+               <hi>defendants re<g ref="char:EOLhyphen"/>ject the Scripture, though given forth by</hi>
+               <note n="(*)" place="margin">2 <hi>Tim.</hi> 3.16.</note> 
+               <hi>Divine Inſpiration, and do ſay it is no more to be believed, in ſaying it is from God, than</hi> Mahomet<hi>'s</hi> Alcaron, <hi>&amp;c. And good reaſon why,</hi>
+               <note n="(3)" place="margin">
+                  <hi>Concil. de ſtabilienda Rom. ſede p.</hi> 6.</note> 
+               <hi>becauſe her Doctrines are repug<g ref="char:EOLhyphen"/>nant to the Holy Scriptures. What then will ſhe truſt to? Tradition: that ſhe equals with</hi>
+               <note n="(4)" place="margin">Concil. Trident. Seſſ. 4. decret. 1.</note> 
+               <hi>the Scriptures themſelves. And yet her great Annaliſt, Cardinal</hi> Baronius, <hi>who was once, as it were, a living Library, while he kept the Vatican</hi>
+               <note n="(5)" place="margin">Dr. <hi>James</hi> his Corruption of the Fathers, Part 4. p. 26.</note>
+               <note n="(6)" place="margin">Anno 44. Sect. 42.</note> 
+               <hi>confeſſeth,
+<pb facs="tcp:105532:8"/>That he deſpaired to find out the truth even in thoſe matters which true Writers have re<g ref="char:EOLhyphen"/>corded: becauſe there was nothing which re<g ref="char:EOLhyphen"/>mained ſincere and incorrupted. This blow given by ſo skilfull an Artiſt, daſhes all the Characters wherein the defence of Oral Tra<g ref="char:EOLhyphen"/>dition ſhould be legible. And, if Tradition in true Writers be ſo difficult to preſerve, how can it be expected to be ſafe from ſpurious ones, or without any Writers at all?</hi>
+            </p>
+            <p>
+               <hi>However, though the Papiſts do not grant, that this ruins their Tradition, I am ſure, it cuts off that definition of it, by</hi>
+               <note n="(†)" place="margin">Bellar. de <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. cap. 9.</note> 
+               <hi>Cardi<g ref="char:EOLhyphen"/>nal</hi> Bellarmin, <hi>who affirms, that to be a true Tradition which all former Doctors (mind that! for then will the Fathers come in for a ſhare) have ſucceſſively in their Ages ac<g ref="char:EOLhyphen"/>knowledged to come from the Apoſtles, and by their Doctrine or Practices have approved, and which the <g ref="char:V">Ʋ</g>niverſal Church owns as ſuch.</hi>
+            </p>
+            <p>
+               <hi>Moreover</hi> Bellarmin<hi>'s Definition of Tradi<g ref="char:EOLhyphen"/>tion gives us this encouragement and liberty to try Antiquity by Fathers, Councils and Pa<g ref="char:EOLhyphen"/>pal Decrees.</hi>
+            </p>
+            <p>
+               <hi>For the Fathers, I hope, the</hi> Romaniſts, <hi>who boaſt ſo much of their being on their party, will not refuſe to be try'd by them, when</hi>
+               <note n="(7)" place="margin">Coſter En<g ref="char:EOLhyphen"/>chirid. Con<g ref="char:EOLhyphen"/>troverſ. cap. 2. Conſtat mani<g ref="char:EOLhyphen"/>feſte, &amp;c. Cam<g ref="char:EOLhyphen"/>pian rat. 3 Se<g ref="char:EOLhyphen"/>culis omnino quindecim, &amp;c. &amp; rat. 10. Teſtes res om<g ref="char:EOLhyphen"/>nes.</note> Coſter <hi>and others make ſuch a fine flouriſh in their pretenſions to Antiquity. No, the Fa<g ref="char:EOLhyphen"/>thers ſhall not be Judges of the</hi> Papiſts: <hi>the</hi> Romaniſts <hi>will not be controlled by the Fa<g ref="char:EOLhyphen"/>thers.
+<pb facs="tcp:105532:8"/>For Cardinal</hi>
+               <note n="(8)" place="margin">Baronius ad annum 34.</note> Baronius <hi>ſaith,</hi> The Catholick Church <hi>(and this they would have you to believe, is their own Church; but againſt all Reaſon and Senſe</hi>) doth not in all things follow the interpreta<g ref="char:EOLhyphen"/>tion of the Fathers. <hi>This is a fair but mo<g ref="char:EOLhyphen"/>deſt Confeſſion. But Cardinal</hi>
+               <note n="(9)" place="margin">
+                  <hi>Bellarmin</hi> de Concil. au<g ref="char:EOLhyphen"/>torit. l. 2. c. 12. Sect. Re<g ref="char:EOLhyphen"/>ſpondeo.</note> Bellar<g ref="char:EOLhyphen"/>min <hi>goes further,</hi> The Writings of the Fa<g ref="char:EOLhyphen"/>thers <hi>(ſaith he)</hi> are not rules to us, nor have the Authority to bind us. <hi>This is an</hi>
+               <note n="(10)" place="margin">How the Papiſts con<g ref="char:EOLhyphen"/>temn and con<g ref="char:EOLhyphen"/>demn the Fa<g ref="char:EOLhyphen"/>thers, See Dr. <hi>James</hi>'s Cor<g ref="char:EOLhyphen"/>ruption of the Fathers, Part 4</note> 
+               <hi>home thruſt: and yet</hi>
+               <note n="(11)" place="margin">
+                  <hi>Salmeron</hi> in Ep. ad Rom. cap. 5. diſp. 51. p. 468.</note> Salme<g ref="char:EOLhyphen"/>ron <hi>is more incivil with thoſe Ancient Doctors, when he ſaith, That the latter Doctors are ſharper ſighted than they, and therefore pro<g ref="char:EOLhyphen"/>nounces of many of them at once, That we muſt not follow a multitude to deviate from the Truth. I am afraid he gave his own Church a rude blow there; for we may turn that Argument of his againſt the Church of</hi> Rome, <hi>which ever and anon is pleading her great number of Profeſſors. To which let us add, what another Romaniſt ſaith in this point. And</hi>
+               <note n="(12)" place="margin">Corn. Muſs. Epiſc. Bitont in Rom. 14. p. 468.</note> 
+               <hi>he tells you, That he believes the Pope in matters of Faith, before a thouſand</hi> Auguſtines, Jeromes, <hi>or</hi> Gregories.</p>
+            <p>
+               <hi>This indeed is plain dealing, and no min<g ref="char:EOLhyphen"/>cing of the matter! But then again it is wholly oppoſite to their vain Pleas for Anti<g ref="char:EOLhyphen"/>quity, and wholly different from the modeſt procedure of</hi>
+               <note n="(13)" place="margin">Apolog. adv. Rufin l. 2. p. 219. tom. 2.</note> 
+               <hi>S.</hi> Jerome, <hi>who thinks it great raſhneſs and irreverence, preſently to charge the Ancients with hereſy for a few ob<g ref="char:EOLhyphen"/>noxious
+<pb facs="tcp:105532:9"/>terms; ſince, when they erred, they erred perhaps with a ſimple and honeſt mind, or wrote things in another ſenſe than they were (afterwards) taken. But, if this be all the eſteem the Papiſts have for the Ancient Do<g ref="char:EOLhyphen"/>ctors, then adieu to the Authority of the Fa<g ref="char:EOLhyphen"/>thers in the Church of</hi> Rome.</p>
+            <p>
+               <hi>Moreover, even the Councils fare no better in the Papiſts hands: For it is uſual in their Editions of the Councils, to have ſome Print<g ref="char:EOLhyphen"/>ed with this Title,</hi> Reprobatum <hi>(or diſal<g ref="char:EOLhyphen"/>lowed) others</hi> Ex parte Approbatum,
+<note n="(14)" place="margin">Vid. Bin. not. ad 2. Con<g ref="char:EOLhyphen"/>cil. Conſtant. tom. 1. part 1. p. 541. Item not. ad Concil. Chal<g ref="char:EOLhyphen"/>ced. tom. 2. par. 1. p 410.</note> 
+               <hi>accordingly as they agree or diſagree with their Opinions and Intereſt at</hi> Rome. <hi>Which ve<g ref="char:EOLhyphen"/>rifies that</hi>
+               <note n="(15)" place="margin">Lud. Vi<g ref="char:EOLhyphen"/>ves in Aug. de civit. Dei, l. 20. c. 36.</note> 
+               <hi>ſmart Cenſure of</hi> Ludovicus Vives, <hi>That</hi> thoſe are accounted Decrees and Councils, which make for their pur<g ref="char:EOLhyphen"/>poſe, and all others are no more valued by them than the meetings of ſome tatling Women in a Weaving Shop, or at the Baths.</p>
+            <p>
+               <hi>But although they reject both Fathers and Councils, (when they are preſſed by the Pro<g ref="char:EOLhyphen"/>teſtants with their Authorities) yet, to take away all teſtimonies of the Fathers from us, the politick Council of</hi> Trent <hi>ſet up their</hi> In<g ref="char:EOLhyphen"/>dices Expurgatorii, <hi>which they referred to Pope</hi> Pius 4. <hi>whoſe Bull for that end bore date</hi> March 24. 1564.
+<note n="(16)" place="margin">See Dr. <hi>James</hi>'s Cor<g ref="char:EOLhyphen"/>ruption of the Scriptures, Fathers and Councils, Printed 1611. Part 4.</note> 
+               <hi>And in theſe Ta<g ref="char:EOLhyphen"/>bles they ſet down, what Books were by them forbidden, and in which to be purged, and what places ought to be left out. Thus deſign'd
+<pb facs="tcp:105532:9"/>they, that both Fathers and Councils ſhould liſp their Language.</hi>
+            </p>
+            <p>
+               <hi>But, though it be contrary to that Rule, by which</hi>
+               <note n="(17)" place="margin">Joh. 5.31.</note> 
+               <hi>Chriſt himſelf was willing to be tried, If I bear witneſs of my ſelf, my wit<g ref="char:EOLhyphen"/>neſs is not true and contrary to all equity and the old</hi>
+               <note n="(18)" place="margin">Capitul. Carol. Mag. c. 88.</note> 
+               <hi>Laws,</hi> viz. <hi>That they which are brought out of our own Houſe, ought not to be witneſſes for us; yet, ſince they have diſowned (when preſſed with ſtrength of Rea<g ref="char:EOLhyphen"/>ſon, and oppreſſed with Truth) the Scriptures, the Fathers and Councils, We will purſue them to their laſt fort; to wit, to the Decrees of their Popes, which they ſo much adore. If they gain-ſay theſe, then</hi> Conclamatum eſt, <hi>their Caſe is deſperate.</hi>
+            </p>
+            <p>
+               <hi>Well, then it muſt be ſo; for they have rejected the Traditions of old Popes for thoſe of new ones: One would have thought, that old Friends and old Divines had been the ſureſt and foundeſt; but it is not ſo at</hi> Rome.</p>
+            <p>
+               <hi>For they have ſlighted and contradicted that Decree of</hi>
+               <note n="(19)" place="margin">Anaclet. Epiſt. ap. Bin. Tom. 1. Part 1. p. 43.</note> Anacletus: <hi>That all, who are preſent at Maſs, ſhall communicate; That of</hi>
+               <note n="(20)" place="margin">Gelaſ. decr. de Con<g ref="char:EOLhyphen"/>ſec. diſt. 2. cap. 12.</note> 
+               <hi>Pope</hi> Gelaſius <hi>of not taking the Bread alone, which (honeſt-man) he called Sacrilege; and</hi>
+               <note n="(21)" place="margin">Binius in notis Tom. 1. part 1. p. 64.</note> 
+               <hi>That of</hi> Alex<g ref="char:EOLhyphen"/>ander 11. <hi>of celebrating but one Maſs in one day. Which abominable practice of the</hi> Ro<g ref="char:EOLhyphen"/>man <hi>Church make good that ſaying of their own Pope</hi>
+               <note n="(22)" place="margin">P. Gelaſ. Ep. 4.</note> Gelaſius, Quaero ab his judicium quod pretendunt ubinam poſſint
+<pb facs="tcp:105532:10"/>agitari, an apud ipſos, ut iidem ſint inimi<g ref="char:EOLhyphen"/>ci, teſtes &amp; Judices? <hi>Which ſignifies in ſhort, that they would be both Enemies, Witneſſes and Judges in their own Cauſe; as being Con<g ref="char:EOLhyphen"/>ſcious to themſelves of ſuch Errors as will not bear the teſt, nor can be defended without ſuch foul play. Who then can ſafely truſt the con<g ref="char:EOLhyphen"/>duct of his Salvation to that Church, (of</hi> Rome) <hi>which refuſeth to be tried by the Word of God, by the Ancient Fathers, by General Councils, and even by the Decrees of her (pretended) Spiritual Heads?</hi>
+            </p>
+            <p>
+               <hi>But becauſe in the following Book I have produced the Teſtimonies of the Fathers vo<g ref="char:EOLhyphen"/>ting againſt Popiſh Doctrines, it will not (I judge) be unneceſſary to ſubjoin, That, al<g ref="char:EOLhyphen"/>though we highly eſteem and reſpect the Fa<g ref="char:EOLhyphen"/>thers, and eſpecially thoſe of the firſt Three hundred years after Chriſt, and make uſe of their Writings, as explaining the ſenſe of the Scriptures, and handling to us the Opini<g ref="char:EOLhyphen"/>ons of the Ages they liv'd in; yet we never receive any of them with the ſame reſpect and eſteem that we do the Word of God: And that with good reaſon: For though they were learn<g ref="char:EOLhyphen"/>ed and pious men; yet they were but men, and conſequently were lyable to error as well as o<g ref="char:EOLhyphen"/>ther men.</hi>
+            </p>
+            <p>
+               <hi>And herein the Advice of S.</hi> Auſtin <hi>is to be followed, to wit, to follow</hi>
+               <note n="(23)" place="margin">Nemi<g ref="char:EOLhyphen"/>nem velim ſic amplecti mea omnia, ut me ſequatur, niſi in eis, quibus me non errare perſpexerit: Auguſt. de perſever. Sanct. cap. 21. tom. 27.</note> 
+               <hi>him (and
+<pb facs="tcp:105532:10"/>ſuch as himſelf) no further than they follow Truth and Holy Scripture,</hi>
+               <note place="margin">Solis eis Scrip<g ref="char:EOLhyphen"/>turarum libris qui jam Cano<g ref="char:EOLhyphen"/>nici appellan<g ref="char:EOLhyphen"/>tur didici hunc timorem honorem<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> deſerre, ut nul<g ref="char:EOLhyphen"/>lum eorum autorem Scri<g ref="char:EOLhyphen"/>bendo aliquid erraſſe firmiſſi<g ref="char:EOLhyphen"/>me credam, <hi>Auguſt.</hi> 1 Epiſt. 19.</note> 
+               <hi>which ought ſtill to be preferred before them: And yet S.</hi> Au<g ref="char:EOLhyphen"/>guſtin <hi>was neither the worſt nor the meaneſt of thoſe Chriſtian Hero's. Thus do we re<g ref="char:EOLhyphen"/>verence but do not idolize them, and only pre<g ref="char:EOLhyphen"/>ferr the Scriptures before them; whereas the Papiſts value their late Papal Decrees before the Primitive Doctors.</hi>
+            </p>
+            <p>
+               <hi>Theſe things being premiſed, I ſhall renew that fivefold Challenge about the Popes Su<g ref="char:EOLhyphen"/>premacy, formerly propounded by a Reverend and Learned Biſhop of our Church; which the Papiſts ought firſt to anſwer, before they can juſtly obtain what they in vain pretend to as Conſequences of that Supremacy. For, they failing to prove this, (which, I think, they will never be able to do) their Attempts in the points depending thereon muſt needs be fruitleſs and ineffectual.</hi>
+            </p>
+            <list>
+               <head>The Challenge is this:</head>
+               <item>1. <hi>Whether our Saviour before his Aſcen<g ref="char:EOLhyphen"/>ſion did conſtitute S.</hi> Peter <hi>his Vicar, and gave him a monarchical Supremacy over the Apo<g ref="char:EOLhyphen"/>ſtles and the whole Church?</hi>
+               </item>
+               <item>2. <hi>Whether the Papiſts can prove, that St.</hi> Peter, <hi>while he lived, exerciſed ſuch Power and Supream Jurisdiction, even over the Apoſtles? In ſuch Caſes as theſe,</hi> Idem eſt non eſſe &amp; non apparere.</item>
+               <pb facs="tcp:105532:11"/>
+               <item>3. <hi>Whether, if St.</hi> Peter <hi>exerciſed any ſuch Authority, it was not temporary, and ceaſed with his Perſon, as the Apoſtleſhip did?</hi>
+               </item>
+               <item>4. <hi>Whether (if all theſe were true, as they are wholly the contrary) they can make it ap<g ref="char:EOLhyphen"/>pear, That the Biſhop of</hi> Rome <hi>was the Suc<g ref="char:EOLhyphen"/>ceſſour of St.</hi> Peter, <hi>and not the Biſhop of</hi> An<g ref="char:EOLhyphen"/>tioch? <hi>and whether ever he was at</hi> Rome <hi>or no?</hi>
+               </item>
+               <item>5. <hi>Whether they can make it appear, That our Bleſſed Saviour, when on Earth, exerciſed ſuch a temporal Monarchy as the Pope now challengeth?</hi>
+               </item>
+            </list>
+            <div type="part">
+               <head>Confeſſions of the Popiſh Doctors in this Caſe.</head>
+               <p>
+                  <hi>To the firſt and ſecond Queries it is Con<g ref="char:EOLhyphen"/>feſſed by</hi>
+                  <note n="(25)" place="margin">Cuſan. de Concil. Cath. 2.3.</note> 
+                  <hi>Cardinal</hi> Cuſanus, <hi>That St.</hi> Peter <hi>received no more Authority (and then he could not exerciſe any Authority over his Fellows) than the reſt of the Apoſtles.</hi>
+               </p>
+               <p>
+                  <hi>To the</hi> 3d <hi>and</hi> 4th <hi>Queries it is Confeſſed by</hi>
+                  <note n="(26)" place="margin">Aen. Syl<g ref="char:EOLhyphen"/>vius de geſtis Concil. Baſil.</note> Aeneas Sylvius <hi>(afterwards Pope, by the name of</hi> Pius 2.) <hi>That the Pope's Suc<g ref="char:EOLhyphen"/>ceſſion is not revealed in Scripture; and then it cannot be proved</hi> jure divino poſitivo.</p>
+               <p>
+                  <hi>And by</hi> Bellarmin,
+<note n="(27)" place="margin">De Rom. Pont l. 4. c. 4.</note>
+               </p>
+               <p>That neither Scripture nor Tradition <hi>(ha<g ref="char:EOLhyphen"/>bet)</hi> allows <hi>(then farewell Papal Supremacy)</hi> That the Apoſtolic Seat (or Chair) was ſo fixed at <hi>Rome, (which I really believe as well as he)</hi> that it could not be taken from thence. <hi>And then why might it not be at</hi> Antioch <hi>or</hi> Jeruſalem <hi>as well as</hi> Rome?</p>
+               <pb facs="tcp:105532:11"/>
+               <p>Confeſſed by him
+<note n="(28)" place="margin">Idem. de Pontif. l. 2. c. 29.</note> further,</p>
+               <p>That as long as the Emperors were Hea<g ref="char:EOLhyphen"/>then, the Pope was ſubject to them in all Civil Cauſes,</p>
+               <p>And</p>
+               <p>That for above One thouſand years, his
+<note n="(29)" place="margin">Id. de Rom. Pont. l. 4. c. 2. Sect. Secunda O<g ref="char:EOLhyphen"/>pinio.</note> Judgment was not eſteemed Infallible, nor
+<note n="(30)" place="margin">Idem de Concil. l. 2. cap. 13.</note> his Authority above that of a General Council.</p>
+               <p>
+                  <hi>Where was then the exerciſe or acknowledg<g ref="char:EOLhyphen"/>ment of this Supremacy and Infallibility of the Popes? Was all the world a-ſleep, or igno<g ref="char:EOLhyphen"/>rant ſo long of this Power which they now challenge to themſelves</hi> Jure Divino? <hi>No, but the Pope (I warrant you) had not yet the opportunity to uſurp and challenge it, as he hath done ſince.</hi>
+               </p>
+               <p>
+                  <hi>To four of theſe, you ſee, they have plain<g ref="char:EOLhyphen"/>ly yielded: and the laſt, they can never make good, either from Scripture or Eccleſiaſtical Hiſtory. Add to theſe the Confeſſion of that Learned Papiſt,</hi>
+                  <note n="(31)" place="margin">
+                     <hi>Barns</hi>'s Catholico-Ro<g ref="char:EOLhyphen"/>manus Pacifi<g ref="char:EOLhyphen"/>cus MS. Sect. 31.</note> Father <hi>Barns, That allowing the Biſhop of</hi> Rome <hi>to have Supre<g ref="char:EOLhyphen"/>macy elſewhere; yet the Pope hath no Supre<g ref="char:EOLhyphen"/>macy in</hi> Britain. Inſula autem Britanniae gaviſaeſt olim privilegio Cyprio, ut nulli<g ref="char:EOLhyphen"/>us Patriarchae Legibus ſubderetur. <hi>And af<g ref="char:EOLhyphen"/>terwards,</hi> Videtur pacis ergô retineri debe<g ref="char:EOLhyphen"/>re ſinè diſpendio Catholiciſmi &amp; abſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Schiſ<g ref="char:EOLhyphen"/>matis ullius notâ. <hi>What can the Papiſts ſay to this ſo plain an acknowledgment? But not deſigning to treat at large upon the Pope's Su<g ref="char:EOLhyphen"/>premacy,
+<pb facs="tcp:105532:12"/>I have not (as in the following Sub<g ref="char:EOLhyphen"/>jects) produced the Teſtimonies of Fathers and Councils againſt this Doctrine of</hi> Rome, <hi>but ſhall adviſe the Reader to conſult herein Biſhop</hi> Jewel <hi>againſt</hi> Harding, <hi>Article</hi> 4. <hi>Archbiſhop</hi> Bramhal<hi>'s Schiſm Guarded againſt</hi> Will. Serjeant. <hi>Dr.</hi> Barrow <hi>of the Pope's Supremacy, and the Biſhop of</hi> Lincoln<hi>'s</hi> Bru<g ref="char:EOLhyphen"/>tum Fulmen, <hi>who will give him full ſatiſ<g ref="char:EOLhyphen"/>faction in that point.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:105532:12"/>
+            <head>THE CONTENTS Of the following TREATISE.</head>
+            <list>
+               <item>SECT I. <hi>OF the Scriptures Sufficiency,</hi> Page 1.</item>
+               <item>SECT II. <hi>Of the Scripture Canon,</hi> p. 5.</item>
+               <item>SECT. III.
+<list>
+                     <item>
+                        <hi>Of Invocation of Saints, and of the Bleſſed Virgin,</hi> p. 8.</item>
+                     <item>
+                        <hi>Of Image Worſhip,</hi> p. 10.</item>
+                     <item>
+                        <hi>Of Adoration of the Hoſt,</hi> p. 12.</item>
+                  </list>
+               </item>
+               <item>SECT. IV. <hi>Of the Three Creeds, and how the Pope im<g ref="char:EOLhyphen"/>poſes new Articles of Faith upon his fol<g ref="char:EOLhyphen"/>lowers,</hi> p. 15.</item>
+               <pb facs="tcp:105532:13"/>
+               <item>SECT. V. <hi>Of the number of Sacraments, and of Com<g ref="char:EOLhyphen"/>munion in one kind,</hi> p. 17.</item>
+               <item>SECT. VI. <hi>Of Tranſubſtantiation,</hi> p. 21.</item>
+               <item>SECT. VII.
+<list>
+                     <item>
+                        <hi>Of Purgatory,</hi> p. 24.</item>
+                     <item>
+                        <hi>Of Indulgences,</hi> p. 28.</item>
+                     <item>
+                        <hi>Of the Sacrifice of the Maſs,</hi> p. 29.</item>
+                     <item>
+                        <hi>Of Juſtification by Faith,</hi> ibid.</item>
+                     <item>
+                        <hi>Of Merits,</hi> p. 31.</item>
+                  </list>
+               </item>
+               <item>SECT. VIII. <hi>Of Prayers in an unknown Tongue,</hi> p. 34.</item>
+               <item>SECT. IX.
+<list>
+                     <item>
+                        <hi>Of the Marriage of Prieſts,</hi> p. 37.</item>
+                     <item>
+                        <hi>Of Auricular Confeſſion,</hi> p. 44.</item>
+                  </list>
+               </item>
+               <item>SECT. X. <hi>Of Obedience to Governors,</hi> p. 47.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb n="1" facs="tcp:105532:13"/>
+            <head>THE Proteſtants Companion.</head>
+            <div n="1" type="section">
+               <head>SECTION I.</head>
+               <p>THE Proteſtant Church of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> our Holy Mother, admits of no other Rule for Faith and practice than the
+<note n="(1)" place="margin">Articles of the Church of <hi>England</hi> publiſhed <hi>Ann. Dom.</hi> 1562, for the avoi<g ref="char:EOLhyphen"/>ding of diver<g ref="char:EOLhyphen"/>ſities of opi<g ref="char:EOLhyphen"/>nions, and for the eſtabliſh<g ref="char:EOLhyphen"/>ing of conſent touching true Religion, <hi>Arti<g ref="char:EOLhyphen"/>cle</hi> 6, <hi>&amp;</hi> 20. 2d Book of Homilies, <hi>Hom.</hi> 2.</note> Holy Scri<g ref="char:EOLhyphen"/>ptures, which according to
+<note n="(2)" place="margin">2 Tim. 3.15.</note> the Apo<g ref="char:EOLhyphen"/>ſtles are able to make us wiſe unto Salva<g ref="char:EOLhyphen"/>tion.</p>
+               <p>The Church of <hi>Rome</hi> doth equal un<g ref="char:EOLhyphen"/>written
+<note n="(3)" place="margin">
+                     <hi>Concil. Trident. Seſſ.</hi> 4. <hi>Decret.</hi> 1.</note> Traditions with the Holy Scrip<g ref="char:EOLhyphen"/>tures: whom
+<note n="(4)" place="margin">
+                     <hi>Pighius Eccleſ. Hierarch. L.</hi> 3. <hi>C.</hi> 3.</note> ſome of that Church do call a noſe of Wax:
+<note n="(5)" place="margin">
+                     <hi>Bellarmine di verbo Dei, l.</hi> 4. <hi>c.</hi> 4.</note> Another, and that no leſs man than a Cardinal, affirms, That the Scripture is no more to be believed in ſaying that it comes from God than <hi>Maho<g ref="char:EOLhyphen"/>met</hi>'s <hi>Alcoran,</hi> becauſe that ſaith ſo too. Another
+<note n="(6)" place="margin">
+                     <hi>Pool de Primatu Romanae Eccleſiae, fol.</hi> 92.</note> Cardinal ſaith, That the Scrip<g ref="char:EOLhyphen"/>tures have no authority but for the Decree
+<pb n="2" facs="tcp:105532:14"/>of the Church; (they mean the <hi>Roman</hi> Church) by whom it
+<note n="(7)" place="margin">
+                     <hi>Caranza Controverſ.</hi> 1. And no mar<g ref="char:EOLhyphen"/>vel, when an<g ref="char:EOLhyphen"/>other affirm<g ref="char:EOLhyphen"/>eth that the Scripture hath no more authority than <hi>Aeſop</hi>'s Fables: <hi>V. Bailly Tract.</hi> 1.9.17.</note> ought to be regu<g ref="char:EOLhyphen"/>lated, and not the Church be regulated by it: and the reaſon is, becauſe (as it is
+<note n="(8)" place="margin">
+                     <hi>Peter Su<g ref="char:EOLhyphen"/>tor</hi> Tranſlat. Bibl. <hi>c.</hi> 22.</note> con<g ref="char:EOLhyphen"/>feſs'd) that the people would eaſily be drawn away from obſerving the Church's (i.e. <hi>Ro<g ref="char:EOLhyphen"/>miſh)</hi> Inſtitutions
+<note n="(9)" place="margin">
+                     <hi>Conſil. de Stabilienda Rom. ſede</hi> p. 6. And though the <hi>Papiſts</hi> do caſhier the publick uſe of the Holy Scriptures, and fly to (as they pretend) an Infallible Judg; yet are they not agreed among themſelves, who that ſhould be. Theſe Learned <hi>Romaniſts</hi> following contend, that the priviledg of Infalli<g ref="char:EOLhyphen"/>bility belongs only to the whole Church militant, and neither to the Pope, nor General Council, nor to the Body of the Clergy: <hi>Occam Dial. p.</hi> 1. <hi>l.</hi> 5. <hi>c.</hi> 25, 29, 3.</note>, when they ſhould perceive, That they are not contained in the Law of Chriſt, and that their (<hi>i.e.</hi> Po<g ref="char:EOLhyphen"/>piſh) Doctrines are not only different from, but repugnant to the Holy Scriptures.</p>
+               <p>Hence doth the Church
+<note n="(10)" place="margin">
+                     <hi>Cuſanus Concord. Cathol. l.</hi> 2. <hi>c.</hi> 3. <hi>Antoninus Sum. Sum<g ref="char:EOLhyphen"/>marum p.</hi> 3. <hi>Tit.</hi> 23. <hi>c.</hi> 2. § 6. <hi>Panormitan Decret. p.</hi> l. <hi>l.</hi> 1. <hi>Tit. de Elect. Cap. ſignificaſti. Mirandula de fide &amp; ordine credend. Theor.</hi> 4.</note> of <hi>Rome</hi> un<g ref="char:EOLhyphen"/>der ſevere penalties forbid the Laity the pe<g ref="char:EOLhyphen"/>ruſal of them, and thereby involves every Lay-man in the guilt of being a <hi>Traditor;</hi> which in the
+<note n="(11)" place="margin">
+                     <hi>In fine Concil. Trident. Reg.</hi> 4.</note> firſt Ages of Chriſtiani<g ref="char:EOLhyphen"/>ty was a crime
+<note n="(12)" place="margin">Hence comes it to paſs that not only the Popiſh Laity, but even the Prieſts themſelves are very ignorant in the Holy Scriptures, ſo that once a Schoolman in the laſt Age, being to preach at <hi>Paris,</hi> where the fa<g ref="char:EOLhyphen"/>mous <hi>Melancthon</hi> was his Auditor, took a Text (for want, I ſuppoſe, of a better Book) out of <hi>Ariſtotle</hi>'s Ethicks, <hi>Sixtinus Amama Orat. de Bar<g ref="char:EOLhyphen"/>barie ex Melancth.</hi>
+                  </note> next door to Apoſtaſie. Which Act doth not only imply, That the Popiſh Church refuſeth to be try'd by the Teſt of God's Word, but is diametrically oppoſite to the practice of the Primitive Chriſtians, as appears in the following Quotations.</p>
+               <pb n="3" facs="tcp:105532:14"/>
+               <p>The <hi>Romiſh</hi> Tenet of ſlighting the Scriptures is contrary to the Word of God, <hi>Joh.</hi> 5.39. 2 <hi>Tim.</hi> 3.16.17.</p>
+               <p>Contrary to the Fathers,</p>
+               <p>
+                  <hi>Clemens Romanus Epiſt. ad Corinth. p.</hi> 58, 61, 68. <hi>Irenaeus l.</hi> 2. <hi>c.</hi> 47. <hi>Idem l.</hi> 3. <hi>c.</hi> 1. <hi>&amp;c.</hi> 2. <hi>Tertullian adv. Hermogen. c.</hi> 23. <hi>Clemens Alexandrinus Stromat. l.</hi> 7. <hi>Origen in Eſai. Hom.</hi> 2. <hi>Idem in Comment in Joſh. p.</hi> 27. <hi>Id. Homil. in Leviticum</hi> 9. <hi>&amp; Com<g ref="char:EOLhyphen"/>ment. in Matthaeum p.</hi> 220. <hi>Cyprian Epiſt.</hi> 74. <hi>Euſebius adv. Sabellium l.</hi> 2. <hi>Conſtantinus Magnus apud Theodoret. Hiſtor. lib.</hi> 1. <hi>c.</hi> 7. <hi>Athanaſius in Orat. adv. Gentes, &amp; de Incarn. Chriſti. Hilarius ad Conſtant. Optatus l.</hi> 5. <hi>de Schiſ. Donat. Baſil. de Sp. Sancto c.</hi> 7. <hi>Id. de verâ ac piâ fide Tom.</hi> 2. <hi>Op. Graec. Lat. p.</hi> 386. <hi>Id. in Ethicis Reg.</hi> 16. <hi>Tom.</hi> 2. <hi>Id. Hom.</hi> 29. <hi>de Trinit. Tom.</hi> 1. <hi>Gregor. Nyſſ. in Dial. de animâ ac Reſurrect. Hieronymus in Comment. in Eſa. cap.</hi> 19. <hi>Id. in Epiſt. ad Laetam. Id. adv. Helvid. Id. Praefat. Com<g ref="char:EOLhyphen"/>ment. in Epiſt. ad Epheſ. Chryſoſtom.</hi> 13 <hi>Hom. in Gen. Id. Hom.</hi> 52. <hi>in Joh. Id. Homil.</hi> 4. <hi>in Lazar. Id. Hom.</hi> 34. <hi>in Act.</hi> 15. <hi>Id. Praefat. in Epiſt. ad Rom. Id. Hom.</hi> 13. <hi>in</hi> 2 <hi>Cor.</hi> 7. <hi>Id. Hom.</hi> 9. <hi>in Coloſſ.</hi> 3. <hi>Id. Hom.</hi> 3. <hi>in</hi> 1 <hi>Theſſal. Id. Hom.</hi> 3. <hi>in</hi> 2 <hi>Theſſal.</hi> 2. <hi>Id. Hom.</hi> 8. <hi>in Epiſt. ad Hebr. c.</hi> 5. <hi>Auguſtin, Epiſt.</hi> 3. <hi>Id. de Doctrinâ Chriſti l.</hi> 2. <hi>c.</hi> 6. <hi>&amp;</hi> 9. <hi>Id. de <g ref="char:V">Ʋ</g>nitat. Eccleſ. c.</hi> 3, 4, 5, <hi>&amp;</hi> 12. <hi>Id.
+<pb n="4" facs="tcp:105532:15"/>Epiſt.</hi> 157. <hi>Id. de Bapt. c. Donat. lib.</hi> 1. <hi>c.</hi> 6. <hi>&amp; l.</hi> 2. <hi>c.</hi> 3. <hi>&amp;</hi> 14. (That paſſage in St. <hi>Auguſtin, Ego Evangelio non crederem, &amp;c. contr. Ep. fundam. c.</hi> 5. is interpreted by theſe Learned Papiſts following, To be meant of the Primitive Church, and thoſe men who ſaw and heard our Bleſſed Savi<g ref="char:EOLhyphen"/>our, and not that the Fathers ſhould be of more authority than the Scriptures: <hi>John Gerſon de vitâ Sp. Lect.</hi> 2. <hi>Hic aperitur mo<g ref="char:EOLhyphen"/>dus, &amp;c. Joh. Driedo de Eccl. Script. &amp; Dogm. l.</hi> 4. <hi>c.</hi> 4. <hi>&amp;. Th. Wald. Doctrinal. l.</hi> 2. <hi>c.</hi> 21. <hi>Sufficiat univerſali Eccleſiae pro preco<g ref="char:EOLhyphen"/>nio poteſtatis ſuae modernae, &amp;c.</hi> who is very ſmart upon ſuch as held the contrary) <hi>Idem Epiſt.</hi> 48. <hi>Tom.</hi> 2. <hi>&amp; Epiſt.</hi> 19. <hi>Cyril Alex l.</hi> 7. <hi>adv. Julian. Theodoret Dial.</hi> 2. <hi>Id. Qu.</hi> 45. <hi>in Geneſ. Theophilus Alexand. in</hi> 2 <hi>Paſch. Homil. Cyril. Hieroſ. Cat.</hi> 4. <hi>Vin<g ref="char:EOLhyphen"/>centius Lirinenſis contra Haereſ. cap.</hi> 2. <hi>&amp;c.</hi> 41. <hi>Juſtus Orgelitanus in c.</hi> 4. <hi>Cantic. Gre<g ref="char:EOLhyphen"/>gorius Magnus in Ezekiel. l.</hi> 1. <hi>Hom.</hi> 9. <hi>Tom.</hi> 2. <hi>Id. Moral. l.</hi> 8. <hi>c.</hi> 8. <hi>Id. in Cant. c.</hi> 5. <hi>Id. Moral. l.</hi> 16. <hi>c.</hi> 17. <hi>Tom.</hi> 1. <hi>Id. l.</hi> 4. <hi>Ep.</hi> 40. <hi>ad Theod. Medic. Tom.</hi> 2. <hi>Id. Epiſt. ad Leand. c.</hi> 4. <hi>Praefat. in Job. Tom.</hi> 1.</p>
+               <p>That the Holy Scriptures could not be corrupted, but thoſe corruptions would have been diſcover'd: See <hi>Auguſtin de util lit. credendi, c.</hi> 3. <hi>&amp; Id. c. Fauſtum l.</hi> 11. <hi>c.</hi> 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and Confeſs'd by <hi>Bellarmin,</hi> That the Scrip<g ref="char:EOLhyphen"/>tures
+<pb n="5" facs="tcp:105532:15"/>could not be corrupted, but thoſe Corruptions would be diſcovered by Ca<g ref="char:EOLhyphen"/>tholicks, <hi>de V. D. l.</hi> 2. <hi>c.</hi> 7.</p>
+               <p>Conſult in this point Biſhop <hi>Jewel</hi>'s Treatiſe of the Holy Scriptures (who in his excellent Apology handles all the main points in Controverſie betwixt us and the Church of <hi>Rome</hi>) and Article 15 againſt <hi>Harding.</hi> Dr. <hi>Stillingfleet</hi>'s Rational Ac<g ref="char:EOLhyphen"/>count of the Grounds of Proteſtant Reli<g ref="char:EOLhyphen"/>gion, Reprinted in 1681, <hi>Part</hi> 1. <hi>c.</hi> 7, 8, 9. <hi>Chillingworth</hi>'s Religion of the Proteſtants a ſafe way to Salvation, <hi>Part</hi> 1. <hi>Chap.</hi> 2. Lively Oracles by the Author (as it's ſaid) of the Whole Duty of Man.</p>
+            </div>
+            <div n="2" type="section">
+               <head>SECT. II.</head>
+               <p>We receive no other Books of Scripture for
+<note n="(13)" place="margin">Article 6.</note> Canonical (in the Church of <hi>Eng<g ref="char:EOLhyphen"/>land)</hi> than
+<note n="(14)" place="margin">
+                     <hi>Concil. Trident. Seſſ.</hi> 4.</note> ſuch as of whoſe autho<g ref="char:EOLhyphen"/>rity there was never any doubt in the Church.</p>
+               <p>The Church of <hi>Rome</hi> doth make the Books commonly call'd <hi>Apocrypha</hi> of equal authority with thoſe of the Old and New Teſtament; which neither the
+<note n="(15)" place="margin">Witneſs the two Lear<g ref="char:EOLhyphen"/>ned <hi>Jews, Philo Judaeus (apud Euſeb. de Praeparat. Evangel. l.</hi> 8.) and <hi>Joſephus; (apud Euſeb. Hiſtor. Eccleſ. l.</hi> 3. <hi>c.</hi> 9. <hi>alias</hi> 10.) and this is fully confeſſed by <hi>Bellarmine de Verbo Dei l.</hi> 1. <hi>c.</hi> 10.</note> 
+                  <hi>Jews,</hi> (to
+<note n="(16)" place="margin">Rom. 3.2.</note> whom were committed the Ora<g ref="char:EOLhyphen"/>cles of God) nor the Primitive Church,
+<pb n="6" facs="tcp:105532:16"/>nor
+<note n="(17)" place="margin">As for the third pre<g ref="char:EOLhyphen"/>tended Coun<g ref="char:EOLhyphen"/>cil of <hi>Car<g ref="char:EOLhyphen"/>thage,</hi> alledged by ſome Pa<g ref="char:EOLhyphen"/>piſts, St. <hi>Auſtin,</hi> who was one of the chief therein, votes in this point for the Do<g ref="char:EOLhyphen"/>ctrine of our Church, <hi>de Ci<g ref="char:EOLhyphen"/>vitate Dei, l.</hi> 17. <hi>c. ult. &amp; alibi.</hi> And though they pretend that the Book of <hi>Baruch</hi> (held by us as Apocry<g ref="char:EOLhyphen"/>phal) was de<g ref="char:EOLhyphen"/>clared Cano<g ref="char:EOLhyphen"/>nical in the Council of <hi>Florence;</hi> yet did <hi>Driedo</hi> afterwards deny it to be ſo, <hi>D. Dogm. Eccleſ. l.</hi> 1. <hi>c.</hi> 4. which neither would have done if the Church Catho<g ref="char:EOLhyphen"/>lick had de<g ref="char:EOLhyphen"/>clared the <hi>Apocrypha</hi> Ca<g ref="char:EOLhyphen"/>nonical.</note> any General Council, nor any Doctor in the Ages ſucceeding, till about 120 years ago, in the Council of <hi>Trent,</hi> nor the
+<note n="(18)" place="margin">
+                     <hi>Rycaut</hi>'s Preſent State of the <hi>Greek</hi> Church, <hi>pag.</hi> 372.</note> 
+                  <hi>Greek</hi> Church to this day, did ever receive as Canonical.</p>
+               <p>
+                  <hi>Apocrypha</hi> receiv'd as Canonical by the <hi>Papiſts,</hi> is</p>
+               <p>Contrary to the Fathers,</p>
+               <p>
+                  <hi>Melito apud Euſeb. Hiſtor. Eccleſ. l.</hi> 4. <hi>c.</hi> 25. <hi>&amp; Graec.</hi> 26. <hi>Origen. in Pſal.</hi> 1. <hi>Athanaſi<g ref="char:EOLhyphen"/>us Epiſt.</hi> 39. <hi>in</hi> 2 <hi>Tom. Oper. &amp; Synopſ. Sacr. Scriptur. Hilarius in Prol. Explanat. in Pſalmos. Cyril Hieroſol. in Catech.</hi> 4. <hi>de Sacrâ Scripturâ. Concil. Laodic. Ca<g ref="char:EOLhyphen"/>non.</hi> 59. <hi>Epiphanius Haereſ.</hi> 8. <hi>contr. Epicur. &amp; Haereſ.</hi> 76. <hi>contra Anomaeos &amp; lib. de menſ. &amp; pond. Baſil. in Philo<g ref="char:EOLhyphen"/>cal. c.</hi> 3. <hi>Gregor. Nazianzen de veris &amp; genuinis libris S. Scripturae divinit us inſpiratae in libro Carminum</hi> 
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Amphilochius in Epiſt. ad Seleucum inter Canonicas Epiſtolas à Balſamone not at. p.</hi> 1082. <hi>Gr. Lat. Hie<g ref="char:EOLhyphen"/>ronymus in Prol. Galeato, ſive Praefat. in lib. Regum. Ruffinus in Symbol. Apoſtol. Sect.</hi> 35, 36. <hi>Junilius Africanus de part. divinae legis l.</hi> 1. <hi>c.</hi> 3. <hi>Tom.</hi> 6. <hi>Bibl. patr. part.</hi> 2. <hi>Co<g ref="char:EOLhyphen"/>lon.</hi> 1618. <hi>Gregorius Magnus Moral. l.</hi> 19. <hi>c.</hi> 17. <hi>&amp; Occam.</hi> (who liv'd above 700 after <hi>Gregory, viz.</hi> about <hi>Anno Dom.</hi> 1320) ex<g ref="char:EOLhyphen"/>plains <hi>Gregory</hi>'s Judgment, that <hi>Judith, Tobias,</hi> the <hi>Maccabees, Eccleſiaſticus,</hi> and the Book of <hi>Wiſdom</hi> are not to be receiv'd
+<pb n="7" facs="tcp:105532:16"/>for the confirmation of Faith, <hi>dial.</hi> part. 3. Tract. 1. <hi>l.</hi> 3. <hi>c.</hi> 16.</p>
+               <p>Confeſſed</p>
+               <p>By Cardinal <hi>Cajetan,</hi> who liv'd but Eleven years before the Council of <hi>Trent,</hi> That the Apocryphal Books are not Canonical, <hi>in libro Eſther ſub finem—Et in hoc loco termi<g ref="char:EOLhyphen"/>namus, &amp;c.</hi> And afterwards, <hi>Nam ad Hi<g ref="char:EOLhyphen"/>eronymi limam (Scil. in Prol. Galeato,</hi> where he owns no Books for Canonical, but ſuch as we receive in that ſenſe) <hi>reducenda ſunt tam verba Conciliorum quàm Doctorum.</hi>
+               </p>
+               <p>Confeſſed by
+<note n="(19)" place="margin">Catharin. Opuſc. de Script. Canonicis. Quod autem Apoſtoli, &amp;c.</note> 
+                  <hi>Catharine</hi> (who was in the Council of <hi>Trent</hi>) and by
+<note n="(20)" place="margin">Stapleton <hi>de autoritat. S. Script. l.</hi> 2. <hi>c.</hi> 4. §. 14—<hi>Sa<g ref="char:EOLhyphen"/>pientiam Eccle<g ref="char:EOLhyphen"/>ſiaſticum, &amp;c.</hi>
+                  </note> 
+                  <hi>Sta<g ref="char:EOLhyphen"/>pleton,</hi> who liv'd after <hi>Catharine,</hi> That the Apoſtles never received nor confirmed the <hi>Apocrypha.</hi> And this will quite ruine their Cauſe, when we have produced
+<note n="(21)" place="margin">
+                     <hi>Bellarmine de Verbo Dei c.</hi> 10. <hi>Ita<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> fate<g ref="char:EOLhyphen"/>mur Eccleſiam nullo modo poſſe facere librum Canonicum de non Canonico, nec contra.</hi>
+                  </note> 
+                  <hi>Bel<g ref="char:EOLhyphen"/>larmin</hi> confeſſing, That the Church hath no power to make a Book Canonical, which was not ſo before.</p>
+               <p>Conſult the Learned Biſhop <hi>Coſin</hi>'s Scho<g ref="char:EOLhyphen"/>laſtical Hiſtory of the Scripture-Canon, upon this Subject.</p>
+            </div>
+            <div n="3" type="section">
+               <head>SECT. III.</head>
+               <p>We Worſhip the only
+<note n="(22)" place="margin">Article 1.—2. Book of Homilies Hom. 2.</note> God, as we are taught to believe in him, and
+<note n="(23)" place="margin">Article 22.</note> none other.</p>
+               <p>The Church of <hi>Rome</hi>
+                  <note n="(24)" place="margin">
+                     <hi>Concil. Trid. Seſſ.</hi> 25. <hi>&amp; Bulla Pii a.</hi>
+                  </note> enjoyns thoſe that live in its Communion to pray to their
+<pb n="8" facs="tcp:105532:17"/>fellow Creatures (who
+<note n="(25)" place="margin">1 <hi>Cor.</hi> 2.11. compared with <hi>Iſa.</hi> 63.16. S. <hi>Auguſtin</hi> ſaith, That the Souls of the dead are there, where they ſee not all things, which are done or happen to people, in this life, <hi>Auguſtin de cura pro mortuis, c.</hi> 13.</note> know not our thoughts and neceſſities) to Hero's and Saints (of whom they feign ſo many ridiculous Stories) and to the Bleſſed.
+<note n="(26)" place="margin">
+                     <hi>Brev. Rom. Antw.</hi> 1663. <hi>p.</hi> 984.</note> Virgin, to whom they uſe ſuch abomina<g ref="char:EOLhyphen"/>ble expreſſions. Yea
+<note n="(27)" place="margin">
+                     <hi>Bellarmin de Indulgentiis c.</hi> 4. <hi>ſub finem.</hi>
+                  </note> a great Car<g ref="char:EOLhyphen"/>dinal doth not bluſh to ſay, That <hi>it is not abſurd, that holy men be called Redeemers af<g ref="char:EOLhyphen"/>ter a ſort.</hi>
+               </p>
+               <div type="part">
+                  <head>
+                     <hi>Invocation of Saints or Angels</hi> is</head>
+                  <p>Contrary to Scripture,</p>
+                  <p>
+                     <hi>Matth.</hi> 11.27, 28.
+<note n="(*)" place="margin">To win them by the expreſſions of his kindneſs, and to hold them faſt bound to his Service by the teſtimonies and declara<g ref="char:EOLhyphen"/>tions of his goodneſs, ſaith <hi>Peter Chryſol.</hi> Serm. 147.</note> 
+                     <hi>Joh.</hi> 6.37. and 14.13, and 16.23, 24. <hi>Acts</hi> 10.25, 26. and 14.13, 14, 15. <hi>Rom.</hi> 8.27. <hi>Epheſ.</hi> 3.20. <hi>Col.</hi> 2.18. 1 <hi>Tim.</hi> 2.5. 1 <hi>Joh.</hi> 2.1, 2.</p>
+                  <p>And</p>
+                  <p>Contrary to the Fathers, who, tho' they might ſometimes uſe Rhetorical Apoſtro<g ref="char:EOLhyphen"/>phe's and Poetical flouriſhes, are far from the Popiſh Tenet of <hi>Invocation.</hi>
+                  </p>
+                  <p>Fathers againſt this Doctrine,</p>
+                  <p>
+                     <hi>Ignatius in Epiſt. ad Philadelph. Juſtin Martyr, Apol.</hi> 2. <hi>Theophilus Antiochenus ad Autolycum, l.</hi> 1. <hi>Irenaeus, l.</hi> 2. <hi>c.</hi> 57. <hi>Origen c. Celſum, l.</hi> 5. <hi>p.</hi> 233, and 236. <hi>Concil. Laodicenum, Can.</hi> 35. <hi>Ambroſe de obit. Theodoſ. Id. de interpellat. l.</hi> 3. <hi>c.</hi> 12. <hi>Id. in</hi>
+                     <note n="(28)" place="margin">
+                        <hi>Bellarmin</hi> alledgeth in particular this Comment up<g ref="char:EOLhyphen"/>on the <hi>Romans</hi> to be St. <hi>Am<g ref="char:EOLhyphen"/>broſe</hi>'s, ſee <hi>Cro<g ref="char:EOLhyphen"/>cus in Cenſura Scriptorum vet. p.</hi> 133.</note> 
+                     <hi>Rom.</hi> 1. <hi>To.</hi> 5. <hi>p.</hi> 174. <hi>Je<g ref="char:EOLhyphen"/>rome To.</hi> 7. <hi>in Prov. c.</hi> 2. <hi>Auguſtin de ci<g ref="char:EOLhyphen"/>vit.
+<pb n="9" facs="tcp:105532:17"/>Dei, l.</hi> 8. <hi>c.</hi> 27. <hi>l.</hi> 9. <hi>c.</hi> 15. <hi>&amp;c. c.</hi> 23. <hi>l.</hi> 10. <hi>c.</hi> 1. <hi>l.</hi> 20. <hi>c.</hi> 10. <hi>l.</hi> 22. <hi>c.</hi> 10. <hi>Id. l.</hi> 2. <hi>de viſit. infirm. Id. Confeſſ. l.</hi> 10. <hi>c.</hi> 42. <hi>Theodoret in</hi> 2. <hi>&amp;</hi> 3. <hi>Coloſſ. Dracontius Poetic. Hexameron.</hi>
+                  </p>
+                  <p>Confeſſed</p>
+                  <p>By ſome of the moſt
+<note n="29" place="margin">
+                        <p>
+                           <hi>Dominic. Bannes in ſe<g ref="char:EOLhyphen"/>cunda ſecundae, Qu.</hi> 1. <hi>Art.</hi> 10. <hi>Orationes ad Sanctos eſſe fa<g ref="char:EOLhyphen"/>ciendas, vene<g ref="char:EOLhyphen"/>randaſ<expan>
+                                 <am>
+                                    <g ref="char:abque"/>
+                                 </am>
+                                 <ex>que</ex>
+                              </expan> eſſe imagines, ne<expan>
+                                 <am>
+                                    <g ref="char:abque"/>
+                                 </am>
+                                 <ex>que</ex>
+                              </expan> etiam expreſſe nec involute Scripturae do<g ref="char:EOLhyphen"/>cent.</hi>
+                        </p>
+                        <p>Other <hi>Papiſts</hi> ſay, That there is neither pre<g ref="char:EOLhyphen"/>cept nor ex<g ref="char:EOLhyphen"/>ample for it in Scripture: and they give rea<g ref="char:EOLhyphen"/>ſons for it; for the <hi>Old-Teſtament,</hi> be<g ref="char:EOLhyphen"/>cauſe the Fa<g ref="char:EOLhyphen"/>thers were not yet admitted to the beatifi<g ref="char:EOLhyphen"/>cal Viſion; and for the <hi>New-Teſtament,</hi> becauſe that the Apoſtles were men of ſuch piety and humility, that they would not admit of it themſelves, and there<g ref="char:EOLhyphen"/>fore mentioned it not in their Writings; and withal, becauſe in the begin<g ref="char:EOLhyphen"/>ning of Chriſtianity there would have been a ſuſpicion, that they had only changed the names of the Heathen Deities, and retain'd the ſame kind of Worſhip, <hi>Eckius in Enchirid. c.</hi> 5. <hi>Salmeron in</hi> 1 <hi>Tim.</hi> 2. <hi>diſp.</hi> 8. <hi>Fereſ. de Tradit. p.</hi> 3.</p>
+                     </note> Learned <hi>Papiſts,</hi> That it is a Doctrine, neither expreſly nor convertly contained in the Scripture.</p>
+                  <p>
+                     <note n="(30)" place="margin">Spalatenſis often. err.</note> 
+                     <hi>Spalatenſis</hi> confeſſeth, That Re<g ref="char:EOLhyphen"/>ligious Invocation of Saints is Heatheniſm, and meer Civil Invocation of them (tho' not ſo bad, yet) dangerous.
+<note n="(31)" place="margin">
+                        <hi>Beatit. Sanctorum. l.</hi> 1. <hi>c.</hi> 8. <hi>Sect. ult.</hi>
+                     </note> Car<g ref="char:EOLhyphen"/>dinal <hi>Perron</hi> confeſſeth, That there are no footſteps of it, either in the Scriptures or in the Fathers before the firſt four General Councils; none of which were call'd till 320 years after our Saviour's Incarnation. <hi>Bellarmin</hi>
+                     <note n="(32)" place="margin">
+                        <hi>Sancti. l.</hi> 1. <hi>c.</hi> 18.</note> confeſſeth, That Invoca<g ref="char:EOLhyphen"/>tion of Saints was not ſo much begun by any Law as by Cuſtom. This is to the purpoſe! But yet further, <hi>Wicelius</hi>
+                     <note n="(33)" place="margin">Via Regia de Invocat. Sanct.</note> ſaith, That the Invocation of Saints is to be caſt out of the Church, becauſe it a<g ref="char:EOLhyphen"/>ſcribes
+<pb n="10" facs="tcp:105532:18"/>God's Honour and Attributes to his Creatures, and derogates from the Office and Glory of Chriſt, by making Saints Mediators and Interceſſors.</p>
+                  <p>What Proteſtant could have oppoſed this vain Doctrine with greater ſtrength of Reaſon and Argument than theſe <hi>Papiſts</hi> have done?</p>
+                  <p>Truth will Conquer.</p>
+                  <p>The <hi>Romiſh</hi> Church
+<note n="(34)" place="margin">
+                        <hi>Concil. Trident. Seſſ.</hi> 25. <hi>Bulla Pii</hi> 4. <hi>ſuper forma Juramenti ad calcem Concil. Trid.</hi> Bellar<g ref="char:EOLhyphen"/>min <hi>de Imag. l.</hi> 2.</note> likewiſe o<g ref="char:EOLhyphen"/>bliges all thoſe in its Communion, to Wor<g ref="char:EOLhyphen"/>ſhip Images, (the Idolatrous practice of the Heathen World) and that with the ſame
+<note n="(35)" place="margin">Azori<g ref="char:EOLhyphen"/>us <hi>l.</hi> 9. <hi>Inſtit. mor. c.</hi> 6. <hi>Art</hi> 3. <hi>Cajetan in Thom. Part.</hi> 3. <hi>Qu.</hi> 25. <hi>Art.</hi> 3. <hi>Gregory de Va<g ref="char:EOLhyphen"/>lentia Tom.</hi> 3. <hi>diſp.</hi> 6. <hi>Qu.</hi> 11. <hi>punct.</hi> 6. <hi>Co<g ref="char:EOLhyphen"/>ſter Enchirid. p.</hi> 438.</note> worſhip which is given to him whoſe Image it is (and that, I think, is far enough); ſo that the Worſhip may be terminated in the Image
+<note n="(36)" place="margin">
+                        <hi>Bellar<g ref="char:EOLhyphen"/>min de Imag. l.</hi> 2. <hi>c.</hi> 21. <hi>prop.</hi> 1.</note>. If this be not Idolatry, I know not what can be ſuch! And yet, that nothing might be wanting in their Worſhip, to make up the meaſure of iniquity, They deny
+<note n="(37)" place="margin">
+                        <hi>Index Expurgatorius Madri.</hi> 1612. <hi>in indice libro<g ref="char:EOLhyphen"/>rum expurga<g ref="char:EOLhyphen"/>torum p.</hi> 39. <hi>dele-Solus De<g ref="char:EOLhyphen"/>us adorandus.</hi>
+                     </note> That God alone is to be worſhipped. I ſuppoſe, they mean, he muſt have ſharers with him in that Honour; for otherwiſe it cannot be ſence: I am ſure, however, it is Blaſphemy.</p>
+               </div>
+               <div type="part">
+                  <head>Image Worſhip</head>
+                  <p>is Contrary to Scripture,</p>
+                  <p>
+                     <hi>Exod.</hi> 20, 4, 5. Hence do the <hi>Papiſts</hi> often leave the Second Commandment out of their Catechiſms, as in <hi>Vaux's Catechiſm,
+<pb n="11" facs="tcp:105532:18"/>Ledeſma's Catechiſm, &amp; Officium B. Mariae, Pii.</hi> 5. <hi>Pont. juffu editum Antwerp. A. D.</hi> 1590.</p>
+                  <p>That</p>
+                  <p>the Second Commandment was meant of, and deſigned againſt Images and Idols, the following Fathers and Doctors do atteſt:</p>
+                  <p>
+                     <hi>Juſtin Martyr Dial. cum Tryph. p.</hi> 321. <hi>Tertullian de Idol. c.</hi> 3, 4. <hi>&amp; Id. c. Marcion l.</hi> 2. <hi>c.</hi> 22. <hi>de ſpect. c.</hi> 23. <hi>Clemens Alexand. ſtro. l.</hi> 3. <hi>p.</hi> 441. <hi>Origen c. Celſum l.</hi> 4. <hi>p.</hi> 182. <hi>&amp; l.</hi> 7. <hi>p.</hi> 375. <hi>Id. in Exod. Hom.</hi> 8. <hi>Athanaſius in Synopſ. Nazianzen in verſ. de decal. Ambroſe &amp; Jerome in Epheſ. c.</hi> 6. <hi>Auguſtin Ep.</hi> 119. <hi>c.</hi> 11. <hi>Procopius &amp; Ru<g ref="char:EOLhyphen"/>pertus in Exod. c.</hi> 20.</p>
+                  <p>Contrary to Scripture,</p>
+                  <p>Lev. 26, 1. Deut. 4.15, 16. and 5.7, 8, 9. Iſa. 40.18, 19, 20. Micah 5.13. Matt. 4.10. Joh. 5.21. Rev. 19.10.</p>
+                  <p>Contrary to the Fathers,</p>
+                  <p>
+                     <hi>Juſtin Martyr Apol.</hi> 2. <hi>p.</hi> 65, 66. <hi>Theo<g ref="char:EOLhyphen"/>philus Antiochenus ad Autolycum l.</hi> 1. <hi>p.</hi> 77. <hi>&amp;</hi> 110. <hi>Clemens Alexandrinus ſtrom. l.</hi> 6. <hi>&amp; in paraenetico. Tertullian adv. Hermogen. init. Minutius Felix p.</hi> 33. who ſaith, <hi>Cruces nec colimus nec optamus. Origen c. Celſum l.</hi> 7. <hi>&amp;</hi> 8. The Council of <hi>Eliberis</hi> in <hi>Spain</hi> at <hi>An. D.</hi> 310. <hi>Can.</hi> 36. <hi>Lactan<g ref="char:EOLhyphen"/>tius lib.</hi> 2. <hi>cap. de Orig. error. dubium non eſt, &amp;c.</hi>
+                  </p>
+                  <pb n="10" facs="tcp:105532:19"/>
+                  <gap reason="duplicate" resp="#OXF" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="11" facs="tcp:105532:19"/>
+                  <gap reason="duplicate" resp="#OXF" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="12" facs="tcp:105532:20"/>
+                  <p>
+                     <hi>Optatus l.</hi> 3. <hi>Epiphanius Epiſt. ad Joh. Hieroſ. Auguſtin de morib. Eccleſiae Cath. l.</hi> 1. <hi>c.</hi> 34. <hi>&amp; de fide &amp; ſymbolo c.</hi> 7. <hi>&amp; Id. contr. Adimant. c.</hi> 13. <hi>&amp; Id. Tom.</hi> 3. <hi>de con<g ref="char:EOLhyphen"/>ſenſ. Evangel. l.</hi> 1. <hi>c.</hi> 10. <hi>Id. de civit. Dei l.</hi> 9. <hi>c.</hi> 15. <hi>Fulgentius ad Donatum. Gre<g ref="char:EOLhyphen"/>gorius Mag. l.</hi> 9. <hi>Epiſt.</hi> 9. <hi>Imagines adorare omnibus modis devita.</hi>
+                  </p>
+                  <p>Moreover the
+<note n="(38)" place="margin">
+                        <hi>Concil. Trident. Seſſ.</hi> 13.</note> Church of <hi>Rome</hi> would oblige us to adore the Conſecrated Hoſt, (or Bread in the Sacrament of the Lord's Supper) and with the ſame Wor<g ref="char:EOLhyphen"/>ſhip which is due to the true God. Which by the
+<note n="(39)" place="margin">
+                        <hi>Coſter Enchirid. Con<g ref="char:EOLhyphen"/>trov. c.</hi> 8. <hi>de Euch. p.</hi> 308. <hi>&amp; Fiſher c. Oecolampadium l.</hi> 1. <hi>c.</hi> 2.</note> Confeſſion of ſome of their Learned men is an Idolatry (if
+<note n="(40)" place="margin">That the Appariti<g ref="char:EOLhyphen"/>ons, which as the <hi>Papiſts</hi> pretend, have appear'd upon the Altar, in<g ref="char:EOLhyphen"/>ſtead of the Sacrament, may, and have been the Illu<g ref="char:EOLhyphen"/>ſions of the Devil; is Con<g ref="char:EOLhyphen"/>feſſed by two Learned Schoolmen; <hi>viz. Alexander de Hales, ſent.</hi> 4. <hi>Qu.</hi> 11. <hi>&amp; Biel</hi> 51. Lect. upon the Canon of the Maſs.</note> Tranſubſtantiation cannot be made out, which if it can, we ought no more to be<g ref="char:EOLhyphen"/>lieve our own Eyes) more ſtupid than the ſottiſh Heathens were guilty of. Though this practice is ſo far from being Ancient, That elevation of the Hoſt, accompanied with the ringing of a Bell at the conſecra<g ref="char:EOLhyphen"/>tion thereof (that all who heard it, might kneel and joyn their hands in adoring the Hoſt) was inſtituted but about <hi>An. Dom.</hi> 1240.
+<note n="(41)" place="margin">
+                        <hi>Naucler. ad An.</hi> 1240. <hi>Krantz. ſex. l.</hi> 8. <hi>c.</hi> 10.</note>
+                  </p>
+                  <pb n="13" facs="tcp:105532:20"/>
+                  <p>The Fathers were ſo far from worſhip<g ref="char:EOLhyphen"/>ping the Hoſt, that ſome of them are ſharp in reproving thoſe, who reſer<g ref="char:EOLhyphen"/>ved the Reliques of it; as appears by</p>
+                  <p>
+                     <hi>Clement</hi>'s Epiſtle to St. <hi>James, Origen in Levit. Hom.</hi> 5. and by the 11th. Council at <hi>Toledo, c.</hi> 14. And in <hi>Je<g ref="char:EOLhyphen"/>ruſalem</hi> they us'd to burn the remain<g ref="char:EOLhyphen"/>ders thereof, <hi>Heſychius in Levit. l.</hi> 2. <hi>c.</hi> 8.</p>
+                  <p>Concerning Invocation of Saints, An<g ref="char:EOLhyphen"/>gels, <hi>&amp;c.</hi> ſee Archbiſhop <hi>Laud</hi>'s excellent Book againſt Jeſuit <hi>Fiſher,</hi> ſo much com<g ref="char:EOLhyphen"/>mended by King <hi>Charles</hi> I. Dr. <hi>Stilling<g ref="char:EOLhyphen"/>fleet's Rational Account of the Grounds of Proteſtant Religion,</hi> &amp;c. <hi>Part</hi> 3. <hi>Ch.</hi> 3. Dr. <hi>Stillingfl.</hi> Diſcourſe concerning the Idolatry practiſed in the Ch. of <hi>Rome, c.</hi> 2. Biſhop <hi>Taylor</hi>'s diſſwaſive from Popery, <hi>Part</hi> 1. <hi>Ch.</hi> 2. <hi>Sect.</hi> 9. <hi>F. White</hi> againſt Jeſuit <hi>Fi<g ref="char:EOLhyphen"/>ſher, pag.</hi> 289. Dr. <hi>Brevent's Saul</hi> and <hi>Samuel</hi> at <hi>Endor.</hi> Biſhop of <hi>Lincoln</hi>'s Let<g ref="char:EOLhyphen"/>ter to Mr. <hi>Evelyn.</hi>
+                  </p>
+                  <p>Concerning Image-worſhip and the Adoration of the Hoſt, ſee Biſhop <hi>Jewel</hi>'s Article 14 againſt <hi>Harding.</hi> Archbiſhop <hi>Laud</hi> againſt Jeſuit <hi>Fiſher.</hi> Dr. <hi>Stilling<g ref="char:EOLhyphen"/>fleet</hi>'s Diſcourſe concerning the Idolatry practiſed in the Church of <hi>Rome,</hi> and his Defence of it. His Rational Account of the Grounds of Proteſtant Religion, <hi>Part</hi>
+                     <pb n="14" facs="tcp:105532:21"/>3. <hi>Chap.</hi> 3. Biſhop <hi>Taylor's</hi> Diſſwaſive from Popery, <hi>Ed.</hi> 3. <hi>C.</hi> 1. <hi>Sect.</hi> 8, 9. <hi>Ch.</hi> 2. <hi>Sect.</hi> 12. <hi>Monſieur de Rodon</hi>'s Funeral of the Maſs, <hi>c.</hi> 5.</p>
+                  <p>Confeſſed</p>
+                  <p>By theſe Learned Popiſh Doctors here<g ref="char:EOLhyphen"/>after mentioned, That the making of Images was prohibited in the old Law, and not to be found in Scripture.</p>
+                  <p>
+                     <hi>Aquinas</hi> 3. <hi>Sent. Diſt.</hi> 9. <hi>Q.</hi> 2. <hi>ad.</hi> 1. <hi>Pro<g ref="char:EOLhyphen"/>hibitum eſt. Alexander Hales, p.</hi> 3. <hi>Q.</hi> 30. <hi>m.</hi> 3. <hi>ar.</hi> 3. <hi>Albertus</hi> 3. <hi>d.</hi> 9. <hi>ar.</hi> 4. <hi>Bo<g ref="char:EOLhyphen"/>naventure</hi> 3. <hi>d.</hi> 9. <hi>Marſilius</hi> 3. <hi>q.</hi> 8. <hi>ar.</hi> 2. <hi>Rich. media villa</hi> 3. <hi>d.</hi> 9. <hi>Q.</hi> 2. <hi>Gerſon com<g ref="char:EOLhyphen"/>pend. tr.</hi> 2. <hi>d.</hi> 10. <hi>Praecept. Abulenſis Exod.</hi> 20. <hi>Q.</hi> 39. <hi>Et Dominic. Bannes in</hi> 2a. 2ae. <hi>Qu.</hi> 1. <hi>art.</hi> 10.</p>
+                  <p>That the Fathers condemn'd Image-worſhip is Confeſs'd by <hi>Polydore Virgil de Invent. l.</hi> 6. <hi>c.</hi> 13. where he ſaith, <hi>Sed teſte Hieronymo omnes ferè veteres ſancti Patres</hi> (ſpeaking of Images) <hi>damnabant ob metum Idololatriae.</hi> For fear of Idolatry. And by <hi>Caſſander, Conſult. d. Imag. Quantum ve<g ref="char:EOLhyphen"/>teris initio Eccleſiae ab omni imaginum adora<g ref="char:EOLhyphen"/>tione abhorruêrunt, declarat unus Origenes.</hi>
+                  </p>
+                  <p>And</p>
+                  <p>That for the firſt four Ages after Chriſt, there was little or no uſe of Images in the Temples or Oratories of the Chriſtians is</p>
+                  <p>Confeſs'd</p>
+                  <p>By <hi>Petavius, Dogmat. Theol. To.</hi> 5. <hi>l.</hi> 15. <hi>c.</hi> 13. <hi>S.</hi> 3. <hi>c.</hi> 14. <hi>S.</hi> 8.</p>
+               </div>
+            </div>
+            <div n="4" type="section">
+               <pb n="15" facs="tcp:105532:21"/>
+               <head>SECT. IV.</head>
+               <p>Our Church contends for and embraces that faith, which was
+<note n="(42)" place="margin">Jude 3.</note> once delivered to the Saints, and admits and profeſſes that ſame, which all true Chriſtians have made the badge of their Holy Profeſſion, which
+<note n="(43)" place="margin">Articles, and <hi>Jewel</hi>'s Apology.</note> is briefly comprehended in the Apo<g ref="char:EOLhyphen"/>ſtles Creed, and explain'd in thoſe others call'd the <hi>Nicene</hi> and <hi>Athanaſian,</hi> which may be prov'd by the Scriptures, and have been approved by the Univerſal Church, by the Decrees of the firſt General Councils and Writings of the Fathers. The Popiſh Church, eſpecially that part of it which is called the Court of <hi>Rome,</hi> obtrudes and impoſes new Articles of Faith, making
+<note n="(44)" place="margin">
+                     <hi>Bellar de Eccleſ. l.</hi> 3.</note> the Biſhop of <hi>Rome</hi> the Infallible Judge and Arbitrator of all Doctrines, en<g ref="char:EOLhyphen"/>joyning an implicit faith and blind obedi<g ref="char:EOLhyphen"/>ence to his Dictates; wherein we muſt re<g ref="char:EOLhyphen"/>nounce
+<note n="(45)" place="margin">
+                     <hi>M. Creſ<g ref="char:EOLhyphen"/>ſie</hi> in his Ap<g ref="char:EOLhyphen"/>pendix <hi>c.</hi> 7. <hi>Sect.</hi> 8. ſaith, That the Wits and Judg<g ref="char:EOLhyphen"/>ments of Ca<g ref="char:EOLhyphen"/>tholicks (he means Pa<g ref="char:EOLhyphen"/>piſts) is to renounce their Judg<g ref="char:EOLhyphen"/>ment and de<g ref="char:EOLhyphen"/>poſe their own wit. I will make no Application, let the Reader do it himſelf.</note> our very Reaſon: ſo that
+<note n="(46)" place="margin">
+                     <hi>Exerci<g ref="char:EOLhyphen"/>tia Spiritualia Ign. Loyolae, Toloſae</hi> 1593. <hi>p.</hi> 173. <hi>Reg.</hi> 1.</note> if he call that white which we ſee to be black, we are to ſay ſo; ſince he hath (as
+<note n="(47)" place="margin">
+                     <hi>Turrecre<g ref="char:EOLhyphen"/>mata ſummae de Eccliſia l.</hi> 2. <hi>c.</hi> 103. <hi>Petrus de Ancorano de Haerit. n.</hi> 2. <hi>Auguſtinus Triumphus de Ancona, p.</hi> 59. <hi>a.</hi> 1. <hi>&amp; art.</hi> 2. And this knack of ma<g ref="char:EOLhyphen"/>king new Creeds is very agreeable to that fancy of <hi>Salmeron, Non amnibus omnia dedit Deus, ut quaelibet aetas ſuis gaudeat veritatibus, quas prior atas ig<g ref="char:EOLhyphen"/>noravit, Diſ.</hi> 57. <hi>in Ep. ad Rom.</hi>
+                  </note> they ſay) the power of making new Creeds, Contrary to Scripture, <hi>Gal.</hi> 1.8, 9.</p>
+               <pb n="16" facs="tcp:105532:22"/>
+               <p>Contrary to</p>
+               <p>St. <hi>Auguſtin de <g ref="char:V">Ʋ</g>nit. Eccleſ. contr. Epiſt. Petil. c.</hi> 3. and all the Fathers who ſhew an eſteem for the Scripture.</p>
+               <p>Confeſs'd</p>
+               <p>By Cardinal <hi>Bellarmine,</hi> That till above a thouſand years after Chriſt, the
+<note n="(48)" place="margin">
+                     <hi>Bellar. de Rom. Pontif. l.</hi> 4. <hi>c.</hi> 2. <hi>Sect. Secunda opinio.</hi>
+                  </note> Popes Judgment was not eſteemed Infallible, nor his
+<note n="(49)" place="margin">
+                     <hi>Id. de Concil. lib.</hi> 2. <hi>c.</hi> 13.</note> Authority above that of a General Council; much leſs then is it above that of the Holy Scriptures.</p>
+               <p>Hence muſt it neceſſarily follow, That it is a new Article of the Creed, to believe that the Pope can make new Creeds.</p>
+               <p>Conſult Dr. <hi>Stillingfleet</hi>'s Diſcourſe con<g ref="char:EOLhyphen"/>cerning the Idolatry practiſed in the Church of <hi>Rome, Chap.</hi> 4.</p>
+            </div>
+            <div n="5" type="section">
+               <head>SECT. V.</head>
+               <p>Our Church uſeth the ſame
+<note n="(50)" place="margin">Article 25.</note> Sacra<g ref="char:EOLhyphen"/>ments, which our Saviour Chriſt left in his
+<note n="(51)" place="margin">Mat. 28.19. Luk. 22.19, 20.</note> Church and no other, to wit, Baptiſm and the Lord's Supper; which both the
+<note n="(52)" place="margin">Article 30.</note> Laity and Clergy in our Communi<g ref="char:EOLhyphen"/>on receive intire without mutilation, ac<g ref="char:EOLhyphen"/>cording to our Bleſſed Saviour's Inſtituti<g ref="char:EOLhyphen"/>on
+<note n="(53)" place="margin">Mat. 26.27. 1 Cor. 11.26, 27, 28.</note>, the practice of the Apoſtles, and of the <hi>Latin</hi> Church for
+<note n="(54)" place="margin">
+                     <hi>Concil. Conſtantieſe Anno Dom.</hi> 1414. <hi>Seſſ.</hi> 13.</note> fourteen hun<g ref="char:EOLhyphen"/>dred years after our Saviour's Incarnation, and of the
+<note n="(55)" place="margin">
+                     <hi>Apud Chy<g ref="char:EOLhyphen"/>trae. de Statu Eccl. Orient. Primum Pa<g ref="char:EOLhyphen"/>triar. Reſp. p.</hi> 149, <hi>&amp;c.</hi> The <hi>Greek</hi> Patriarch <hi>Hie<g ref="char:EOLhyphen"/>remias's</hi> Let<g ref="char:EOLhyphen"/>ter to the <hi>Tu<g ref="char:EOLhyphen"/>ling</hi> Divines, bearing date <hi>May</hi> 15. 1576.</note> 
+                  <hi>Greek</hi> Church in the laſt Age; if not until this day.</p>
+               <pb n="17" facs="tcp:105532:22"/>
+               <p>The Church of <hi>Rome</hi> doth not only clogg its members with the number of
+<note n="(56)" place="margin">
+                     <hi>Concil. Trident. Seſſ.</hi> 7.</note> ſeven Sacraments; (which preciſe number of Sacraments was not held for Catholick, even in the <hi>Roman</hi> Church, till above a thouſand years after Chriſt, and therefore far from Primitive Chriſtianity) but de<g ref="char:EOLhyphen"/>prives the Laity
+<note n="(57)" place="margin">
+                     <hi>Concil. Conſtant. Seſſ.</hi> 13.</note> of the Cup in the Euchariſt, contrary to our Saviour's Inſti<g ref="char:EOLhyphen"/>tution: which is at once the higheſt pre<g ref="char:EOLhyphen"/>ſumption, and withal not one degree re<g ref="char:EOLhyphen"/>mov'd from Sacriledg.</p>
+               <div type="part">
+                  <head>The number of Seven Sacraments</head>
+                  <p>Contrary to the Fathers,</p>
+                  <p>
+                     <hi>Juſtin Martyr, Apol.</hi> 2. (whom even <hi>Bellarmine</hi> himſelf confeſſes to have menti<g ref="char:EOLhyphen"/>oned but two Sacraments, <hi>de effect. Sacram. l.</hi> 2. <hi>c.</hi> 27. <hi>Sect. venio.) Tertullian adverſ. Marcion, l.</hi> 4. <hi>c.</hi> 34. <hi>&amp; Id. de coronâ militis c.</hi> 3. <hi>Cyril</hi> of <hi>Jeruſalem</hi> in his Catechiſms. <hi>S. Ambroſe</hi> in his Books <hi>de Sacramentis. Auguſtin de Doctr. Chriſti, lib.</hi> 3. <hi>c.</hi> 9. <hi>Id. de Symbolo ad Catech. Tom.</hi> 9. <hi>Id. Epiſt.</hi> 118. <hi>ad Januar. Tom.</hi> 2. <hi>Junilius in Geneſ.</hi>
+                  </p>
+                  <p>Confeſs'd,</p>
+                  <p>That <hi>Peter Lombard,</hi> Maſter of the Sen<g ref="char:EOLhyphen"/>tences (who liv'd <hi>Anno Dom.</hi> 1144.) was the firſt Author that mentioned the preciſe number of Seven Sacraments, and the Coun<g ref="char:EOLhyphen"/>cil of <hi>Florence</hi> held <hi>Anno Dom.</hi> 1438, was
+<pb n="18" facs="tcp:105532:23"/>the firſt Council that determined that number,</p>
+                  <p>By Cardinal <hi>Bellarmin, de Sacram. lib.</hi> 2. <hi>c.</hi> 25. and <hi>Caſſander, Conſult. de num. Sacram.</hi>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>Communion in one kind</head>
+                  <p>Contrary to Scripture,</p>
+                  <p>
+                     <hi>Matt.</hi> 26.26, 27, 28. <hi>Luk.</hi> 22.19, 20. 1 <hi>Cor.</hi> 11.26, 27, 28.</p>
+                  <p>Contrary to the Fathers,</p>
+                  <p>
+                     <hi>Dionyſius Areopagita, Eccl.</hi>
+                     <note n="(58)" place="margin">Al<g ref="char:EOLhyphen"/>though ſome Learned men in our own Church will have <hi>Apollina<g ref="char:EOLhyphen"/>ris,</hi> who liv'd in the fourth Century, to be the Author of that Book See Dr. <hi>Stilling<g ref="char:EOLhyphen"/>fleet</hi>'s Anſwer to <hi>Creſſ. Apo<g ref="char:EOLhyphen"/>log. c.</hi> 2. §. 17. <hi>p.</hi> 133. and Dr. <hi>Cave</hi> in the Life of <hi>Diony<g ref="char:EOLhyphen"/>ſius Areopagi<g ref="char:EOLhyphen"/>ta, p.</hi> 73, 74.</note> 
+                     <hi>Hierarch. c.</hi> 3. (which Author I quote in the front of the Fathers, becauſe the Papiſts would have him to live in the firſt Age; though it is more probable that he liv'd later; albe<g ref="char:EOLhyphen"/>it not ſo late as <hi>Monſieur Daillé</hi> would have him.) <hi>Ignatius Ep. ad Philadelph. Juſtin Martyr, Apol.</hi> 2. <hi>in fine p.</hi> 162. <hi>Clemens Alexandrin. Stromat. l.</hi> 1. <hi>p.</hi> 94. <hi>&amp; Id. Pae<g ref="char:EOLhyphen"/>dagog. l.</hi> 2. <hi>c.</hi> 2. <hi>p.</hi> 35. <hi>Tertullian de Reſur<g ref="char:EOLhyphen"/>rect. c.</hi> 8. <hi>&amp; Id. l.</hi> 2. <hi>ad <g ref="char:V">Ʋ</g>xorem c.</hi> 6. <hi>Origen, Hom.</hi> 16. <hi>in Num. Cyprian, Epiſt.</hi> 54. <hi>Tom.</hi> 1. <hi>l.</hi> 1. <hi>Epiſt.</hi> 2. <hi>Gregor. Nazianzen Orat.</hi> 11. <hi>in laud. Gorgon. &amp; Orat.</hi> 40. <hi>in Sanctum Baptiſm. Tom.</hi> 1. <hi>Athanaſius, Apol.</hi> 2. <hi>con<g ref="char:EOLhyphen"/>tra Arrianos,</hi> 
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>&amp;c. Ambroſ. in Orat. ad Theodoſ. &amp; apud Theodoret. Hiſt. Eccleſ. l.</hi> 5. <hi>c.</hi> 18. <hi>Hieronymus Epiſt. ad Ruſticum Tom.</hi> 1. <hi>Id. ſup. Sophon. c.</hi> 3. <hi>Tom.</hi> 6. <hi>Chryſoſtom in</hi> 2 <hi>Cor. Hom.</hi> 18. <hi>Tom.</hi> 3.
+<pb n="19" facs="tcp:105532:23"/>
+                     <hi>Edit. Savil. p.</hi> 646. <hi>Auguſtin</hi> 4 <hi>Qu.</hi> 57. <hi>in Levit. Leo Ser.</hi> 4. <hi>de Quadrageſ. Gelaſi<g ref="char:EOLhyphen"/>us Decret.</hi> 3. <hi>part. de Conſecrat. diſt.</hi> 2. <hi>cap. Comperimus. Hincmar</hi> in the Life of the Archbiſhop <hi>Rhemes</hi> (who converted King <hi>Clovis</hi> of <hi>France</hi> to the Chriſtian Faith) reports that the Archbiſhop gave a Chalice (or Cup) for the peoples uſe, with this Motto,</p>
+                  <q>
+                     <l>
+                        <hi>Hauriat hinc populus vitam de ſanguine ſacro,</hi>
+                     </l>
+                     <l>
+                        <hi>Injecto, aeternus quem fudit vulnere Chriſtus,</hi>
+                     </l>
+                     <l>
+                        <hi>Remigius domino reddit ſua vota ſacerdos,</hi>
+                     </l>
+                     <bibl>
+                        <hi>è Caſſandri Liturg. c.</hi> 31. <hi>Pamelii Liturgic. p.</hi> 618. <hi>Tom.</hi> 1. <hi>Gregorius Magnus, Dial. l.</hi> 1.4. <hi>c.</hi> 58. <hi>Id. Dial. l.</hi> 3. <hi>c.</hi> 36. <hi>Tom.</hi> 2. <hi>Id. in Sab. Paſchae, Homil.</hi> 22. <hi>Tom.</hi> 2.</bibl>
+                  </q>
+                  <p>Confeſs'd,</p>
+                  <p>That Communion in one kind, is againſt the practice of the Apoſtles, by <hi>Paſchaſius Radbertus de corp. &amp; ſang. domini c.</hi> 19.</p>
+                  <p>Confeſs'd,</p>
+                  <p>That it was a General Cuſtom for the Lai<g ref="char:EOLhyphen"/>ty to Communicate in both kinds, by <hi>Sal<g ref="char:EOLhyphen"/>meron, Tract.</hi> 35.</p>
+                  <p>Confeſs'd</p>
+                  <p>By <hi>Caſſander,</hi>
+                     <note n="(59)" place="margin">
+                        <hi>Conſult. Sect.</hi> 22.</note> That it was receiv'd in both kinds for above a thouſand years after Chriſt; by
+<note n="(60)" place="margin">
+                        <hi>In terti<g ref="char:EOLhyphen"/>am partem S. Thomae, tom.</hi> 3. <hi>Quaeſt.</hi> 80. <hi>Diſp.</hi> 216. <hi>Art.</hi> 12. <hi>cap.</hi> 3. <hi>nu.</hi> 38.</note> 
+                     <hi>Vaſquez</hi> and <hi>Thomas</hi>
+                     <note n="(61)" place="margin">In Joh. 6. Lect. 7.</note> 
+                     <hi>Aquinas</hi> for above 1200 years; by
+<pb n="20" facs="tcp:105532:24"/>
+                     <note n="(62)" place="margin">In Manu<g ref="char:EOLhyphen"/>ali de communi<g ref="char:EOLhyphen"/>one ſub utraque ſpecie.</note> 
+                     <hi>Becanus</hi> for 1400 years; and laſt of all by the
+<note n="(63)" place="margin">
+                        <hi>Concil. Conſtant. Seſſ.</hi> 13. They in that Council likewiſe con<g ref="char:EOLhyphen"/>tradicted the Judgments of their ancient Popes, <hi>Leo, Ge<g ref="char:EOLhyphen"/>laſius,</hi> and <hi>Gre<g ref="char:EOLhyphen"/>gory</hi> the Great, as may be ſeen in the Quota<g ref="char:EOLhyphen"/>tions of the Fathers.</note> Council of <hi>Conſtance</hi> it ſelf,</p>
+                  <p>It was acknowledged,</p>
+                  <p>That Communion in both kinds had been inſtituted by our Bleſſed Saviour himſelf, practiſed by the Primitive Church, and to that very time; and yet they had the con<g ref="char:EOLhyphen"/>fidence to alter it!</p>
+                  <p>They certainly had confidence enough, but neither too much Reaſon nor too much Religion, who durſt diſannull what our Bleſſed Saviour had enjoyn'd, and what carried his ſeal to that very day. Where was then that reverence to Antiquity, which their Followers to this day ſo much pretend to?</p>
+                  <p>Concerning the number of Seven Sacra<g ref="char:EOLhyphen"/>ments, ſee <hi>Birkbeck</hi>'s Proteſtant Evidence <hi>Article</hi> 4.</p>
+                  <p>Of Communion in both kinds, ſee Biſhop <hi>Jewel</hi>'s Article 2. againſt <hi>Harding.</hi> Biſhop <hi>Taylor</hi>'s Diſſwaſive, Part 1. Ch. 1. Sect. 6. Dr. <hi>Stillingfleet</hi>'s Rational Account of the Grounds of Proteſtant Religion, <hi>Part</hi> 3. <hi>Ch.</hi> 3. Archbiſhop <hi>Laud</hi> againſt <hi>Fiſher, Rodon</hi>'s Funeral of the Maſs, <hi>Ch.</hi> 6.</p>
+               </div>
+            </div>
+            <div n="6" type="section">
+               <pb n="21" facs="tcp:105532:24"/>
+               <head>SECT. VI.</head>
+               <p>We do not believe that the Elements of Bread and Wine
+<note n="(64)" place="margin">Article 28, &amp; 29.</note> after Conſecration become the very Body and Blood of Chriſt, though the worthy Receiver partakes of both in a ſpiritual manner by faith; be<g ref="char:EOLhyphen"/>cauſe we herein have all the teſtimony we are capable of; <hi>viz.</hi> that of our Reaſons and of our Senſes, to believe, That there is not a real Tranſubſtantiation or a change of the Elements of Bread and Wine into the Body and Blood of our Saviour: which is an abſurd tenet, and hath occaſioned many Superſtitions.</p>
+               <p>The Church of <hi>Rome</hi> holds, that there
+<note n="(65)" place="margin">
+                     <hi>Concil. Trident. Seſſ.</hi> 13. <hi>c.</hi> 4.</note> is a converſion of the whole ſubſtance of Bread and Wine into the ſubſtance of Chriſt's Body and Blood by Conſecration.</p>
+               <div type="part">
+                  <head>Tranſubſtantiation</head>
+                  <p>Contrary to Scripture,</p>
+                  <p>
+                     <hi>Luk.</hi> 22.17, 18, 19, 20.</p>
+                  <p>Contrary to the Fathers,</p>
+                  <p>
+                     <hi>Juſtin Martyr, Apol.</hi> 2. <hi>Irenaeus l.</hi> 4. <hi>adv. Haer. c.</hi> 34. <hi>Tertullian cont. Marcion. l.</hi> 4. <hi>c.</hi> 40. <hi>Origen, Comment. in Matth. c.</hi> 15. <hi>Id. Homil.</hi> 3. <hi>in Matth. Euſebius Demonſt. Evangel. l.</hi> 1. <hi>c.</hi> 1. <hi>&amp;c. ult. Macarius Homil.</hi>
+                     <pb n="22" facs="tcp:105532:25"/>27. <hi>Gregor. Nazianz. Orat.</hi> 2. <hi>in Paſch. Ambroſ. lib. de Bened. Patriarch. c.</hi> 9. <hi>Epi<g ref="char:EOLhyphen"/>phanius in Anchorat. p.</hi> 6. <hi>Chryſoſtome Ho<g ref="char:EOLhyphen"/>mil.</hi> 24. <hi>in Epiſt. ad Cor. Id. Epiſt. ad Caeſar, Monach. Jerome, Comment. S. Matth. c.</hi> 26. <hi>Id. in Iſa.</hi> 66. <hi>&amp; in Hoſ.</hi> 8. <hi>&amp; in Jerem.</hi> 22. <hi>Auguſtin Serm.</hi> 9. <hi>de diverſ. Id. l.</hi> 3. <hi>de Doctr. Chriſt. c.</hi> 16. <hi>Id. l.</hi> 20. <hi>contr. Fauſt. Manich. c.</hi> 21. <hi>&amp; in Pſal.</hi> 98. <hi>Id. de civit. Dei l.</hi> 21. <hi>c.</hi> 25. <hi>&amp; Tractat.</hi> 26. <hi>in Joh. Ge<g ref="char:EOLhyphen"/>laſius in lib. de duab. nat. Chriſt. Ephrem,</hi> Patriarch of <hi>Antioch, apud Phot. Cod.</hi> 229. <hi>Primaſius Comment. in</hi> 1 <hi>Epiſt. ad Cor. Fa<g ref="char:EOLhyphen"/>cundus Defenſ. Conc. Chalced. l.</hi> 9. <hi>c.</hi> 5. <hi>Gau<g ref="char:EOLhyphen"/>dentius Tract.</hi> 20.</p>
+                  <p>Add to theſe, that <hi>Heſychius</hi> Biſhop of <hi>Hieruſalem,</hi> in <hi>Leviticum, l.</hi> 2. <hi>c.</hi> 8. ſaith, It was the cuſtom in the ancient Church to burn the remainders of the Euchariſt. Which place when <hi>Cheyney,</hi> a Proteſtant in Q. <hi>Mary</hi>'s days, inſiſted upon againſt the Papiſts, and demanded what it was that was burned? one anſwered, That it was either the Body of Chriſt, or the ſubſtance of Bread put there by miracle; at which he ſmil'd, and ſaid, a Reply was needleſs: and I think ſo too.</p>
+                  <p>
+                     <hi>Chillingworth</hi> hath a pretty joking Dia<g ref="char:EOLhyphen"/>logue betwixt <hi>C.</hi> and <hi>K.</hi> about Tranſub<g ref="char:EOLhyphen"/>ſtantiation and the Infallibility of the <hi>Ro<g ref="char:EOLhyphen"/>man</hi> Church, in his Proteſtant Religion a
+<pb n="23" facs="tcp:105532:25"/>ſafe way to Salvation, <hi>Part</hi> 1. <hi>Ch.</hi> 3. <hi>Edit.</hi> 2. 1638. <hi>p.</hi> 158, 159.</p>
+               </div>
+               <div type="part">
+                  <head>Tranſubſtantiation</head>
+                  <p>Confeſs'd</p>
+                  <p>Not to be in the Canon of the Bible, by theſe Learned Papiſts hereafter menti<g ref="char:EOLhyphen"/>oned,</p>
+                  <p>
+                     <hi>Scotus in</hi> 4. <hi>lib. ſentent. diſt.</hi> 11. <hi>Q.</hi> 3. <hi>Occam ibid. Q.</hi> 6. <hi>Biel Lect.</hi> 40. <hi>in Can. Miſſae. Fiſher</hi> Biſhop of <hi>Rocheſter, c.</hi> 1. <hi>cont. captiv. Babyl.</hi> Cardinal <hi>Cajetan apud Suarez. Tom.</hi> 3. <hi>Diſp.</hi> 46. <hi>Sect.</hi> 3. <hi>Melchior Canus, Loc. com. l.</hi> 3. <hi>c.</hi> 3. <hi>fund.</hi> 2.</p>
+                  <p>That <hi>Tranſubſtantiation</hi> was not touch'd by the Fathers, was Confeſs'd by our <hi>Engliſh</hi> Jeſuits, <hi>Diſcurſ. Modeſt. p.</hi> 13. and by <hi>Alphonſus à Caſtro de Haereſ. l.</hi> 8. <hi>verbo Indulgentia.</hi>
+                  </p>
+                  <p>Not own'd as an Article
+<note n="*" place="margin">Deny'd to be the faith of the Church by <hi>Barns</hi> in his <hi>Romano-Catholicus Pa<g ref="char:EOLhyphen"/>cificus, MS. Sect.</hi> 7. <hi>liter. Q.</hi>
+                     </note> of Faith be<g ref="char:EOLhyphen"/>fore the <hi>Lateran</hi> Council (held <hi>Anno Dom.</hi> 1215) and therefore it is no ancient Article,</p>
+                  <p>Confeſs'd</p>
+                  <p>By <hi>Scotus apud Bellarm. l.</hi> 3. <hi>de Euchar. c.</hi> 28.</p>
+                  <p>And yet this was the bloody Teſt in Queen <hi>Mary</hi>'s days, by which ſo many Glorious Martyrs changed Earth for Heaven.</p>
+               </div>
+            </div>
+            <div n="7" type="section">
+               <pb n="24" facs="tcp:105532:26"/>
+               <head>SECT. VII.</head>
+               <p>Our Church acknowledges no <hi>Purga<g ref="char:EOLhyphen"/>tory</hi>
+                  <note n="(66)" place="margin">Article 22, &amp; 18.</note> or Propitiation for our ſins, but that which was made once for all
+<note n="(67)" place="margin">Article 31. Heb. 10.10.</note> by our Bleſſed Saviour; and that upon the condition of Faith and Repentance. We
+<note n="(68)" place="margin">Article 22.</note> diſown all <hi>Pardons</hi> and <hi>Indulgen<g ref="char:EOLhyphen"/>ces</hi> as grounded upon no warranty of Scripture, but rather repugnant to the Word of God; ſince we are told that we have nothing
+<note n="(69)" place="margin">1 Cor. 4.7.</note> but what we have recei<g ref="char:EOLhyphen"/>ved. We own that good works
+<note n="(70)" place="margin">Article 12.</note> are the fruits of Faith, and follow after Juſtifica<g ref="char:EOLhyphen"/>tion, but that they cannot put away ſins, and endure the ſeverity of Gods Judgment, much leſs for the ſins of others: nor can
+<note n="(71)" place="margin">Article 14.</note> we perform works over and above God's Commands, call'd by the Papiſts works of Supererogation: to ſay which, is the higheſt arrogance. For when we have done all we are commanded, Chriſt enjoyns us to ſay, <hi>We are unprofitable Servants.</hi> And we look upon our ſelves as righteous before God for the merit of our Bleſſed Lord and Saviour Jeſus Chriſt by faith,
+<note n="(72)" place="margin">Article 11, &amp; 13.</note> and not for our own works and deſerts.</p>
+               <pb n="25" facs="tcp:105532:26"/>
+               <p>The <hi>Romiſh</hi> Church owns a Purgatory
+<note n="(73)" place="margin">
+                     <hi>Concil. Trident. Seſſ. ult.</hi> Hence doth <hi>Bellar<g ref="char:EOLhyphen"/>mine</hi> threaten us, ſaying, that whoſoever be<g ref="char:EOLhyphen"/>lieves not Pur<g ref="char:EOLhyphen"/>gatory, ſhall be tormented in Hell, <hi>de Purgat. l.</hi> 1. <hi>c. ult.</hi> And yet this ſame Cardinal (for<g ref="char:EOLhyphen"/>getting what he had before affirm'd (for herein he doth not only con<g ref="char:EOLhyphen"/>tradict himſelf but all Popiſh pretenſions for Purgatory, when he) grants that Souls in Pur<g ref="char:EOLhyphen"/>gatory do not merit. <hi>In Pur<g ref="char:EOLhyphen"/>gatorio animae nec mereri nec peccare poſſint, Bellarm. de Purgatorio, l.</hi> 2. <hi>c.</hi> 2. To what end then are they ſent to Purgatory?</note> for ſins pardoned, ſo that there ſtill remains a guilt of temporal puniſhment to be paid, either in this life or hereafter in Purgatory. Which upſtart Doctrine of Purgatory (for we ſhall anon ſhew it to be ſo) hath prov'd the Mother of Indulgences and Pardons, and thereby hath mightily enriched
+<note n="(74)" place="margin">
+                     <hi>Spalatenſis de Republ. Eccleſ. l.</hi> 5. <hi>c.</hi> 8. <hi>Sect.</hi> 73.</note> the Church of <hi>Rome,</hi> where<g ref="char:EOLhyphen"/>by remiſſion of ſins is ſet upon terms
+<note n="(75)" place="margin">
+                     <hi>Bellar. de Indulg. l.</hi> 1.</note> in the vile market of Indulgences; Mur<g ref="char:EOLhyphen"/>ther and Inceſt being valued at five Groſſes;
+<note n="(76)" place="margin">Taxa Cancel. Apoſt.</note> Perjury at ſix; Sacriledg and Simony at ſeven, and ſo on in the Tax of the Apo<g ref="char:EOLhyphen"/>ſtolick (as it is pretended)
+<note n="(77)" place="margin">But the poor have not theſe priviledges (whereby mark the great charity of the <hi>Romiſh</hi> Prieſts, which will ſuffer by conſequence, if their Doctrine were true, the poor to go to Hell for want of money), <hi>Diligenter nota quod hujuſinodi gratiae non dantur pauperibus, quia non ſunt, ideo non poſſunt conſolari, Taxa Cancellariae Apoſtolicae Tit. de Matrimoniali.</hi>
+                  </note> Chancery. Hence above
+<note n="(78)" place="margin">
+                     <hi>Tom. Concil.</hi> 28. <hi>p.</hi> 460.</note> 60000 Marks beſides all other payments to the See of <hi>Rome</hi> were yearly carried out of this Kingdom by the <hi>Italians,</hi> being a greater revenue than our King then had; as appears by a fruitleſs complaint in a Letter from the whole Na<g ref="char:EOLhyphen"/>tion to the Council of <hi>Lions, Anno Dom.</hi> 1245. A round ſumm it was in thoſe days before the <hi>Indian</hi> Gold was diſcover'd, and yet that was ſpent in maintaining the luſt and ambition of the Popiſh Clergy.</p>
+               <div type="part">
+                  <pb n="26" facs="tcp:105532:27"/>
+                  <head>Popiſh Purgatory</head>
+                  <p>Contrary to Scripture,</p>
+                  <p>
+                     <hi>Gal.</hi> 3.13. <hi>Heb.</hi> 1.3, <hi>&amp;c.</hi> 9.14. <hi>&amp;c.</hi> 10.10. <hi>Rom.</hi> 5.1, 2, 10, 11. <hi>Rev.</hi> 14.13. which laſt Text is a place ſo clear againſt Purgatory, that <hi>Picherellus</hi> a Papiſt of the <hi>Sorbon</hi> Colledg, did ingeniouſly confeſs that St. <hi>John</hi> had in thoſe few words put out the fire of Purgatory, <hi>de Miſſà, pag.</hi> 156.</p>
+                  <p>Contrary to the Fathers,</p>
+                  <p>
+                     <hi>Dionyſius Areopagita Eccleſ. Hier. c.</hi> 7. Author of the Queſtions in <hi>Juſtin, Quaeſt.</hi> 75. <hi>Tertullian de Baptiſmo. Cyprian's Tract. ad Demetri. Sect.</hi> 16. <hi>Macarius Ho<g ref="char:EOLhyphen"/>mil.</hi> 22. <hi>Hilarius in Pſal.</hi> 2. <hi>Gregor. Na<g ref="char:EOLhyphen"/>zianzen, Orat.</hi> 5. <hi>in Plagam grandinis, &amp; Orat.</hi> 42. <hi>in Paſcha. de Eccleſ. Dogmat. c.</hi> 79. <hi>Ambroſe de bono mortis, cap.</hi> 4. <hi>Chryſoſtom de paenit. Serm.</hi> 3. <hi>Id. in Geneſ. Hom.</hi> 5. <hi>&amp; Hom.</hi> 16. <hi>in Ep. ad Rom. Epiphanius Hae<g ref="char:EOLhyphen"/>reſ.</hi> 79. <hi>ſub finem. Auguſtin,</hi> though he doubts in this point, <hi>in Enchirid. c.</hi> 67, 69. <hi>&amp; De civit. Dei, l.</hi> 21. <hi>c.</hi> 26. <hi>&amp; de fide &amp; op. c.</hi> 16. is poſitive elſewhere againſt Purga<g ref="char:EOLhyphen"/>tory, (<hi>ſcil. lib. de pec. mer. &amp; rem. cap.</hi> 28.)
+<pb n="27" facs="tcp:105532:27"/>he ſaith, That there is no middle place. That a man may be any where but with the Devil, who is not with God. <hi>Gregor. Magnus in Job. lib.</hi> 13. <hi>c.</hi> 20. <hi>Bede in Pſal.</hi> 6. <hi>Otho Friſingenſis in Chron. l.</hi> 8. <hi>c.</hi> 26. <hi>Anſelm in</hi> 2 <hi>Cor.</hi> 5. <hi>Bernard. Epiſt.</hi> 266. <hi>Lumbard ſen.</hi> 3. <hi>diſt.</hi> 19. <hi>lit. A.</hi> He liv'd <hi>Anno Dom.</hi> 1144.</p>
+                  <p>Contrary to the Doctrine of the <hi>Greek</hi> Church of the later Ages, as appears from their Apology delivered to the Council of <hi>Baſil</hi>
+                     <note n="(78)" place="margin">
+                        <hi>Apolog. Graecorum de igne Purgat. p.</hi> 66, <hi>&amp;</hi> 93. <hi>Ed. Salmaſ.</hi>
+                     </note> about 253 years ago. Hence doth <hi>Alphonſus à Caſtro</hi> place their not hol<g ref="char:EOLhyphen"/>ding a Purgatory among the Errors of the <hi>Greek</hi> Church, <hi>l.</hi> 12. <hi>tit. Purgat.</hi>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>Purgatory</head>
+                  <p>Confeſs'd</p>
+                  <p>By <hi>Petrus Picherellus</hi> to have no fewel ei<g ref="char:EOLhyphen"/>ther to kindle or maintain its fire in Scrip<g ref="char:EOLhyphen"/>ture: <hi>Picherell. de Miſſa, c.</hi> 2.</p>
+                  <p>Confeſs'd</p>
+                  <p>That neither the Scriptures nor the Ancient Fathers have any thing in them con<g ref="char:EOLhyphen"/>cerning</p>
+               </div>
+               <div type="part">
+                  <head>Purgatory,</head>
+                  <p>By <hi>Alphonſus à Caſtro l.</hi> 12. <hi>tit. Purgat. f.</hi> 258.</p>
+                  <pb n="28" facs="tcp:105532:28"/>
+                  <p>Confeſs'd,</p>
+                  <p>That few or none of the <hi>Greek</hi> Fathers ever mention it, and the <hi>Latin</hi> Fathers did not at all believe it, but by degrees came to entertain opinions of it, and that the Ca<g ref="char:EOLhyphen"/>tholick Church knew it lately,</p>
+                  <p>By</p>
+                  <p>
+                     <hi>Roffenſis Art.</hi> 18. <hi>con. Luther &amp; Polydore Virgil, Invent. rerum, l.</hi> 8.</p>
+                  <p>Confeſs'd</p>
+                  <p>By another Learned <hi>Roman</hi> Catholick, Fa<g ref="char:EOLhyphen"/>ther <hi>Barns,</hi> That it is a thing which lyes meerly in human invention, nor cannot be firmly deduced from Scriptures, Fa<g ref="char:EOLhyphen"/>thers and Councils, and That the oppoſite opinion ſeems more agreeable to them, in <hi>Catholico-Rom. Pacificus,</hi> Sect. 9.</p>
+                  <p>Conſult herein Archbiſhop <hi>Laud</hi> againſt Jeſuit <hi>Fiſher.</hi> Dr. <hi>Stillingfleet</hi>'s Rational Account, <hi>Part</hi> 3. <hi>Ch.</hi> 6. Biſhop <hi>Taylor</hi>'s Diſſwaſive, <hi>Part</hi> 1. <hi>Ch.</hi> 1. <hi>Sect.</hi> 4.</p>
+               </div>
+               <div type="part">
+                  <head>The Riſe of <hi>Indulgences.</hi>
+                  </head>
+                  <p>At firſt the Indulgences (that were) were but relaxations or releaſements of Canonical ſatisfaction, <hi>i. e.</hi> of the Diſci<g ref="char:EOLhyphen"/>pline or correction of the Church. In this ſenſe are to be underſtood the firſt Council of <hi>Nice,</hi> c. 11. of <hi>Arles,</hi> c. 10. and of <hi>An<g ref="char:EOLhyphen"/>cyra,</hi> c. 2. But their new and chief founda<g ref="char:EOLhyphen"/>tion
+<pb n="29" facs="tcp:105532:28"/>was laid by
+<note n="(79)" place="margin">
+                        <g ref="char:V">Ʋ</g>nigeni<g ref="char:EOLhyphen"/>tus, de paeni<g ref="char:EOLhyphen"/>tentiis &amp; remiſ<g ref="char:EOLhyphen"/>ſionibus.</note> Pope <hi>Clement</hi> the ſixth in his
+<note n="(80)" place="margin">The Do<g ref="char:EOLhyphen"/>ctrine of In<g ref="char:EOLhyphen"/>dulgences was oppos'd by two famous Papiſts not long before the <hi>Extrava<g ref="char:EOLhyphen"/>gant</hi> of Pope <hi>Clement,</hi> by <hi>Franciſcus de Mayronis in</hi> 4. <hi>l. ſen. diſt.</hi> 19. <hi>Q.</hi> 2. and by <hi>Durandus in</hi> 4. <hi>l. ſen. d.</hi> 20. <hi>Q.</hi> 3. So that it was far from being either Catholick or Ancient.</note> 
+                     <hi>Extravagant, Ann. Dom.</hi> 1350.</p>
+                  <p>Confeſs'd</p>
+                  <p>That we have nothing in the Scripture nor in the ſayings of the Ancient Fathers con<g ref="char:EOLhyphen"/>cerning Indulgences as ſatisfactions before God for temporal puniſhments, or hold<g ref="char:EOLhyphen"/>ing them as profitable for the dead,</p>
+                  <p>By</p>
+                  <p>
+                     <hi>Antoninus Part.</hi> 1. <hi>Sum. tit.</hi> 10. <hi>c.</hi> 3. By <hi>Biel Lect.</hi> 57. <hi>de Canon. Miſſae,</hi> and by <hi>Ho<g ref="char:EOLhyphen"/>ſtienſis in Sum. l.</hi> 5. <hi>tit. de remiſ. nu.</hi> 6.</p>
+                  <p>Conſult herein Biſhop <hi>Taylor</hi>'s Diſſwa<g ref="char:EOLhyphen"/>ſive, <hi>Part</hi> 1. <hi>Ch.</hi> 1. <hi>Sect.</hi> 3.</p>
+                  <p>The Church of <hi>Rome</hi> likewiſe in the Council
+<note n="(81)" place="margin">
+                        <hi>Concil. Trid. Seſſ.</hi> 6. <hi>Can.</hi> 9. <hi>&amp; Seſſ.</hi> 6. <hi>cap.</hi> 16. <hi>cap.</hi> 32.</note> of <hi>Trent</hi> accurſes all ſuch as ſay, That a Sinner is juſtified by faith on<g ref="char:EOLhyphen"/>ly, or deny that the good works of holy men do truly merit everlaſting Life: not to mention that blaſphemous Doctrine of the <hi>Roman</hi> Church, that
+<note n="(82)" place="margin">
+                        <hi>Catechiſ. Rom. de Eu<g ref="char:EOLhyphen"/>char. num.</hi> 55.</note> the Sacrifice of the Maſs offered (as they pretend) by the Prieſt is a meritorious and propitiatory Sacrifice for ſin; which wholly takes away the efficacy and merits of Chriſt's Paſſion and Reſurrection.</p>
+                  <p>That the Miſſal Sacrifice is a Propitiato<g ref="char:EOLhyphen"/>ry Sacrifice for ſin, is</p>
+                  <pb n="30" facs="tcp:105532:29"/>
+                  <p>Contrary to Scripture,</p>
+                  <p>
+                     <hi>Heb.</hi> 10.10, 11, 12, 14, 15, 16, 17, 18, 19, 20, 21, &amp; <hi>c.</hi> 9.24, 25, 26, 27, 28. &amp; <hi>c.</hi> 7.25.</p>
+                  <p>Contrary to the Fathers,</p>
+                  <p>(Who by thoſe Tropical ſpeeches of Sacri<g ref="char:EOLhyphen"/>ficing and offering, did not admit of any Propitiatory Sacrifice but only the Paſſion of Chriſt.)</p>
+                  <p>
+                     <hi>Juſtin Martyr, Apol.</hi> 2. <hi>Irenaus l.</hi> 5. <hi>c.</hi> 34. <hi>Clement in Conſtitution. l.</hi> 6. <hi>c.</hi> 23. <hi>Euſebius lib.</hi> 1. <hi>cap.</hi> 10. <hi>de demonſt. Am<g ref="char:EOLhyphen"/>broſe l.</hi> 4. <hi>de Sacram. c.</hi> 6. <hi>Chryſoſtom Hom.</hi> 17. <hi>in Hebraos. Auguſtin Enchiridion ad Laurent. c.</hi> 33. <hi>&amp; Id. de Trinitate &amp; de civitate Dei l.</hi> 10. <hi>c.</hi> 6. <hi>&amp; l.</hi> 3. <hi>c.</hi> 13. <hi>&amp; lib.</hi> 3. <hi>contra ſecund. Epiſt. Pelag. cap.</hi> 6. <hi>Gregor. Dial. lib.</hi> 4. <hi>c.</hi> 59. <hi>Lumbard</hi> 4. <hi>diſt.</hi> 12. <hi>Thomas Aquinas</hi> (who lived <hi>A. D.</hi> 1253.) 3. <hi>p. Q.</hi> 83. <hi>Art.</hi> 1. So far is the Romiſh Doctrine of the Maſs from be<g ref="char:EOLhyphen"/>ing Ancient!</p>
+               </div>
+               <div type="part">
+                  <head>That Men Merit Eternal Life by their <hi>Good Works</hi> is</head>
+                  <p>Contrary to Scripture,</p>
+                  <p>
+                     <hi>Luke</hi> 17.10. 1 <hi>Cor.</hi> 4.6, 7. <hi>Epheſ.</hi> 2.8. 1 <hi>Joh.</hi> 18.</p>
+                  <pb n="31" facs="tcp:105532:29"/>
+                  <p>Contrary to the Fathers,</p>
+                  <p>
+                     <hi>Ignatius in Epiſt. ad Rom. Polycarp apud Euſeb. Hiſtor. Eccleſ. l.</hi> 4. <hi>c.</hi> 15. <hi>Origen l.</hi> 4. <hi>in Epiſt. ad Rom. c.</hi> 4. <hi>Baſil. in Pſal.</hi> 114. <hi>Macarius Homil.</hi> 15. <hi>Ambroſe in Pſal.</hi> 118. <hi>Serm.</hi> 20. <hi>&amp; in Exhort. ad Virgines. Chryſoſtom in Matth. Homil.</hi> 53. <hi>Id. ad Stelechum de compunct. cord. ed. Savil. Tom.</hi> 6. <hi>p.</hi> 157. <hi>Jerom ſuper Epheſ.</hi> 2. <hi>Tom.</hi> 9. <hi>Id. l.</hi> 6. <hi>in Iſai. c.</hi> 13. <hi>Id. lib.</hi> 17. <hi>c.</hi> 64. <hi>Tom.</hi> 5. <hi>Leo Serm.</hi> 1. <hi>de aſſumpt. &amp; Id. Serm.</hi> 12. <hi>de paſſ. dom. Theodoret in Rom.</hi> 6. <hi>v. ult. &amp; Id. in Rom.</hi> 8. <hi>Auguſtin Con<g ref="char:EOLhyphen"/>feſſ. l.</hi> 10. <hi>c.</hi> 4. <hi>Tom.</hi> 1. <hi>&amp; Id. ſuper Jo<g ref="char:EOLhyphen"/>han. Tract.</hi> 3. <hi>Tom.</hi> 9. <hi>&amp; Id. Tom.</hi> 8. <hi>in Pſal.</hi> 109. <hi>Fulgentius ad Monim. l.</hi> 1. <hi>c.</hi> 10. <hi>Juſtus Orgelitanus in Cantic. cap.</hi> 2. <hi>Caſſiodore in Pſal.</hi> 5. <hi>Council of Orange,</hi> 2. <hi>Can.</hi> 20. <hi>Caranza in ſumma Concil. Gregor. Magnus Tom.</hi> 2. <hi>in Ezech. ad finem. Id. moral. l.</hi> 5. <hi>c.</hi> 8. <hi>l.</hi> 9. <hi>c.</hi> 14. <hi>l.</hi> 29. <hi>c.</hi> 9. <hi>l.</hi> 35. <hi>c. ult. Id. Pſal.</hi> 1. <hi>Paenit. Tom.</hi> 2.</p>
+               </div>
+               <div type="part">
+                  <head>Merit</head>
+                  <p>Not allow'd of in <hi>Anſelm</hi>'s time, (who liv'd <hi>An. Dom.</hi> 1086) as appears from him in upon <hi>Rom.</hi> 12. nor in S. <hi>Bernard</hi>'s days, as appears from him in <hi>Cant. Serm.</hi> 73. where he ſaith, That the Saints had need to pray for their Sins, that they may have Salva<g ref="char:EOLhyphen"/>tion through Mercy, and not truſting in
+<pb n="32" facs="tcp:105532:30"/>their own Righteouſneſs. So far was S. <hi>Bernard</hi> (who liv'd <hi>An. Dom.</hi> 1120) from owning the Popiſh Doctrine of <hi>Merits.</hi>
+                  </p>
+                  <p>Confeſs'd</p>
+                  <p>By <hi>Bellarmin,</hi> That Good Works are re<g ref="char:EOLhyphen"/>warded above their deſerts,</p>
+                  <p>
+                     <hi>de Juſti. l.</hi> 1. <hi>c.</hi> 19.</p>
+                  <p>Concerning the Sacrifice of the Maſs, Conſult Biſhop <hi>Jewel</hi> 1 and 17 Article a<g ref="char:EOLhyphen"/>gainſt <hi>Harding,</hi> Biſhop <hi>Morton</hi> of the Maſs, Dr. <hi>Brevint</hi>'s Depth and Myſtery of the <hi>Roman</hi> Maſs. <hi>Monſ. Rodon</hi>'s Funeral of the Maſs, <hi>c.</hi> 7. and 8.</p>
+                  <p>Concerning the Popiſh Doctrine of Me<g ref="char:EOLhyphen"/>rits, ſee <hi>Birckbeck</hi>'s Proteſtant Evidence, <hi>Article</hi> 9.</p>
+                  <p>That Men are not Juſtified by Faith on<g ref="char:EOLhyphen"/>ly, and for the Merit of our Saviour, but by their own good Works too, by which (as the <hi>Papiſts</hi> hold) they merit eternal happineſs, is</p>
+                  <p>Contrary to Scripture,</p>
+                  <p>
+                     <hi>Rom.</hi> 3.28. and <hi>c.</hi> 4.4, 5. and <hi>c.</hi> 5.1, 2, 3. and <hi>c.</hi> 11.6. <hi>Epheſ.</hi> 2.8, 9.</p>
+                  <p>Contrary to the Fathers,</p>
+                  <p>
+                     <hi>Irenaus l.</hi> 4. <hi>c.</hi> 5. <hi>Clemens Alexandrinus
+<pb n="33" facs="tcp:105532:30"/>Padagog. l.</hi> 1. <hi>c.</hi> 6. <hi>&amp; Stromat. l.</hi> 5. <hi>Origen l.</hi> 3. <hi>in Epiſt. ad Rom. c.</hi> 3. <hi>Ambroſe</hi> (or ſome in the ſame Age with him, as <hi>Bellar<g ref="char:EOLhyphen"/>min</hi> confeſſeth, <hi>de Juſtif. c.</hi> 8.) in his Com<g ref="char:EOLhyphen"/>ment. upon <hi>Rom. c.</hi> 4. and in 1 <hi>Cor. c.</hi> 1. <hi>Theodoret de curandis Graecar. affectib. l.</hi> 7. <hi>Chryſoſtome in</hi> Rom. 1.17. Homil. 2. <hi>&amp; Id. in Tit.</hi> 1.13. Homil. 3. <hi>Auguſtin l.</hi> 1. <hi>contr. duas Epiſtol. Pelag. c.</hi> 21. <hi>&amp; Id. in</hi> Pſal. 8. <hi>concion.</hi> 2. <hi>Primaſius in c.</hi> 2. <hi>ad Ga<g ref="char:EOLhyphen"/>latas. Fulgentius de incar. &amp; grat. c.</hi> 16.</p>
+                  <p>Confeſſed By Cardinal <hi>Bellarmin,</hi>
+                  </p>
+                  <p>That it is moſt ſafe and ſure to place all our truſt upon the only Mercy of God, be<g ref="char:EOLhyphen"/>cauſe of the incertainty of our own Juſtice and the danger of vain glory, <hi>De Juſtif.</hi> l. 5. c.3 after he had Confeſſed, That good Works are rewarded above their deſerts, <hi>Id. de Juſtif.</hi> l. 1. c. <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </p>
+                  <p>Conſult herein <hi>Birkbeck</hi>'s <hi>Proteſtant Evi<g ref="char:EOLhyphen"/>dence,</hi> Article 8.</p>
+               </div>
+            </div>
+            <div n="8" type="section">
+               <pb n="34" facs="tcp:105532:31"/>
+               <head>SECT. VIII.</head>
+               <p>Our Church performs all her Prayers and other Divine Offices, and adminiſters the Sacraments with ſuch Rites as are a<g ref="char:EOLhyphen"/>greeable to the Word of God, being for
+<note n="(84)" place="margin">1 <hi>Cor.</hi> 14.40.</note> Decency and Order in a Language underſtood
+<note n="(85)" place="margin">
+                     <hi>Article</hi> 24.</note> by all thoſe that are concern'd therein.</p>
+               <p>The Popiſh Church
+<note n="(86)" place="margin">
+                     <hi>Hard<g ref="char:EOLhyphen"/>ing</hi> againſt Bp. <hi>Jewel Article</hi> 3. <hi>Miſſal. Rom. approbat. ex decreto Concil. Trident. &amp; Bulla Pii</hi> 5. <hi>Cherubini Bul<g ref="char:EOLhyphen"/>lar. Tom.</hi> 2. <hi>p.</hi> 311.</note> hath her Prayers in an unknown Tongue, to which if the people do ſay, <hi>Amen,</hi> it is without underſtanding. Which is not only an un<g ref="char:EOLhyphen"/>reaſonable Service, but an abominable Sin, Robbing God of his Honour, and Men of their Devotion.</p>
+               <div type="part">
+                  <head>
+                     <hi>Prayers in an unknown Tongue</hi> are</head>
+                  <p n="(1)">(1) Contrary to Scripture, 1 <hi>Cor.</hi> 14.</p>
+                  <p n="(2)">(2) Contrary to the Fathers,</p>
+                  <p>
+                     <hi>Origen contra Celſ. l.</hi> 8. <hi>Baſil lib. Qu. ex variis Script. locis Q.</hi> 278. <hi>Ambroſe in</hi> 1 Cor. 14. <hi>Chryſoſtom Hom.</hi> 18. <hi>in</hi> 2 <hi>Cor. Hierome Tom.</hi> 1. <hi>Epiſt.</hi> 17. <hi>Auguſtin E<g ref="char:EOLhyphen"/>piſt.</hi> 178. <hi>Id. in Pſal.</hi> 18. <hi>con.</hi> 2. <hi>Id. de doctr. Chriſt. l.</hi> 4. <hi>c.</hi> 10. <hi>Bede Hiſt. Angl. l.</hi> 1. <hi>c.</hi> 1.</p>
+                  <pb n="35" facs="tcp:105532:31"/>
+                  <p n="(3)">(3) Contrary to Councils and Papal Decrees,</p>
+                  <p>
+                     <hi>Concilium Moguntinum An. Dom.</hi> 812. <hi>cap.</hi> 45. <hi>Concil. Lateran. An. Dom.</hi> 1215. <hi>c.</hi> 9.</p>
+                  <p>
+                     <hi>Greg. l.</hi> 1. <hi>titul.</hi> 31. <hi>cap. Quoniam pleriſ<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> Baronius, Tom.</hi> 10. <hi>A. D.</hi> 88. <hi>N.</hi> 16.</p>
+                  <p>
+                     <hi>Hiſtor. Boem. c.</hi> 13. Written by <hi>Aeneas Sylvius,</hi> who was afterwards called Pope <hi>Pius</hi> 11.</p>
+                  <p n="(1)">(1) Confeſſed to be againſt Edification in Spiritual matters, by</p>
+                  <p>
+                     <hi>Lyra</hi> and Cardinal <hi>Cajetan,</hi> in 1 <hi>Cor.</hi> 14.</p>
+                  <p>
+                     <hi>Caſſander in Liturgic. c.</hi> 28. <hi>&amp; Conſult.</hi> Art. 24.</p>
+                  <p n="(2)">(2) Confeſſed to be Contrary to the Practice of the Primitive Church, by <hi>Aquinas</hi> and <hi>Lyra,</hi> in 1 <hi>Cor.</hi> 14.</p>
+                  <p>Conſult herein Bp. <hi>Jewel</hi> againſt <hi>Hard<g ref="char:EOLhyphen"/>ing,</hi> Article 3. Bp. <hi>Taylor</hi>'s <hi>Diſſuaſive,</hi> Part 1. ch. 1. Sect. 7.</p>
+               </div>
+            </div>
+            <div n="9" type="section">
+               <pb n="36" facs="tcp:105532:32"/>
+               <head>SECT. IX.</head>
+               <p>As our Church employs ſuch perſons in the Miniſtry of God's Worſhip and Sacra<g ref="char:EOLhyphen"/>ments, and in feeding and governing the Flock of Chriſt, as are
+<note n="(87)" place="margin">Article 36. Book of Ordination. <hi>Maſon</hi> of the Conſecration of Biſhops in the Church of <hi>England.</hi> Archbiſhop <hi>Bramhal</hi>'s works <hi>Tom.</hi> 1. Diſcourſe 5. <hi>&amp; Tom.</hi> 4. Diſcourſe 6.</note> lawfully called to their Office and Miniſtry, and are Conſecrated and Ordained according to the Scriptures and Canons of the Univerſal Church, and of whoſe Biſhops we can ſhew
+<note n="(*)" place="margin">Which the <hi>Roman</hi> Ch. notwithſtand<g ref="char:EOLhyphen"/>ing its big pretences to conſtant ſuc<g ref="char:EOLhyphen"/>ceſſion, cannot juſtly challenge: and that both from its five vacancies, making up almoſt Nine years, when <hi>Rome</hi> had no Biſhop at all, and the many Schiſms, by ſome Chronologers reckoned up to be Twenty nine (a fair number indeed!) by <hi>Onuphrius</hi> to be Thirty, and by <hi>Bellarmin</hi> himſelf to be Twenty ſix: Whereof the Twentieth Schiſm laſted Twenty years, and the 21ſt. laſted 36 years; during which time the Church of <hi>Rome</hi> had two Popes, which excommunicated each other; the 26th continued, ſaith <hi>Ge<g ref="char:EOLhyphen"/>nebrard (Chron. l.</hi> 4.) <hi>An. Dom.</hi> 1378. from <hi>
+                        <g ref="char:V">Ʋ</g>rban</hi> 6. till the Council of <hi>Conſtance,</hi> which was at leaſt Thirty five years. <hi>Baronius (ad Annum</hi> 1044. <hi>Sect.</hi> 5. <hi>Tom.</hi> 11.) calls the three Popes who then contended for the Papal Chair, a Beaſt with Three heads aſcending out of the bottomleſs Pit. Add to theſe the 70 years ſtay of the Popes at <hi>Avignion,</hi> which quite joints their boaſted Succeſſion. For during theſe times where was the true Succeſſour of St. <hi>Peter?</hi> Or was the Church (in their ſenſe) ſo long without an Head?</note> a Succeſſion to the Apoſtles of our Saviour as fully as any other Church at this day can do: ſo do we leave all
+<note n="(88)" place="margin">Article 32.</note> Eccleſiaſticks, whether Biſhops, Prieſts or Deacons, to Marry at their own diſcretion, as they ſhall judge the ſame to ſerve better to godlineſs; ſince
+<note n="(89)" place="margin">
+                     <hi>Heb.</hi> 13.4.</note> Marriage is ho<g ref="char:EOLhyphen"/>nourable in all, and not forbid, but per<g ref="char:EOLhyphen"/>mitted,
+<pb n="37" facs="tcp:105532:32"/>and, in Caſes ſo requiring, enjoyn<g ref="char:EOLhyphen"/>ed by God's Law, and practiſed as well as taught by perſons of the ſame function (<hi>i. e.</hi> Prieſts) in the beſt and pureſt Ages of the Church, as may be ſeen in the fol<g ref="char:EOLhyphen"/>lowing Quotations.</p>
+               <p>The Church of <hi>Rome</hi>
+                  <note n="(90)" place="margin">
+                     <hi>Bellar<g ref="char:EOLhyphen"/>min. lib.</hi> 1. <hi>de Cleric. c.</hi> 20. <hi>Sect. Reſpon<g ref="char:EOLhyphen"/>deo. Id. de ma<g ref="char:EOLhyphen"/>trim. l.</hi> 1. <hi>c.</hi> 21.</note> denies Marriage to the Clergy, but permits (I ſuppoſe, by way of requital to) them Concubines
+<note n="(91)" place="margin">Hence did <hi>Aeneas Sylvius</hi> (after<g ref="char:EOLhyphen"/>wards Pope, by the name of <hi>Pius</hi> 11.) mention how <hi>
+                        <g ref="char:V">Ʋ</g>lric</hi> Biſhop of <hi>Auſburg</hi> reprov'd the Pope concern<g ref="char:EOLhyphen"/>ing Concu<g ref="char:EOLhyphen"/>bines, <hi>Aentas Sylvius de mo<g ref="char:EOLhyphen"/>rib. Germani. e.</hi>
+                  </note>: For ſo doth
+<note n="(*)" place="margin">
+                     <hi>Diſt.</hi> 82. <hi>Can.</hi> Presbyter <hi>in Gloſſa.</hi>
+                  </note> Car<g ref="char:EOLhyphen"/>dinal <hi>Campegius</hi> obſerve, and <hi>Pighius</hi> teach, which doth not only give great cauſe of ſcandal to <hi>Jews</hi> and Infidels, but in
+<note n="(92)" place="margin">1 <hi>Tim.</hi> 4.1, 3.</note> the Holy Apoſtles judgement is the Do<g ref="char:EOLhyphen"/>ctrine of Devils. And the Reaſon of Concubinage may be eaſily inferr'd, when ſome
+<note n="(93)" place="margin">
+                     <hi>Coſter. Enchiridion de caelibat. prop.</hi> 9. <hi>Durandus ſent. l.</hi> 4. <hi>diſt.</hi> 33. <hi>Martinus de Magiſtris lib. de temp. qu</hi> 2. <hi>de luxuria.</hi> 3. <hi>Qu.</hi> 7. <hi>Lata Extravag. de bigamis Quia circa. Communiter di<g ref="char:EOLhyphen"/>citur, Quod Clericus pro ſimplici formicatione deponi non debet. diſt.</hi> 81. <hi>Maxi<g ref="char:EOLhyphen"/>mianus gloſſa in Gratian.</hi>
+                  </note> of their moſt Learned Men will ſcarce allow Fornication to be a Sin; however preferring it in Eccleſiaſtics be<g ref="char:EOLhyphen"/>fore lawful Wedlock.</p>
+               <div type="part">
+                  <head>
+                     <hi>The forbidding of Marriage</hi> is</head>
+                  <p>Contrary to Scripture,</p>
+                  <p>
+                     <hi>Levit.</hi> 21.13. 1 <hi>Tim.</hi> 3, 2, 12. <hi>Heb.</hi> 13.4. 1 <hi>Cor.</hi> 7.2, 9.</p>
+                  <pb n="38" facs="tcp:105532:33"/>
+                  <p>That the Apoſtles were Married, ex<g ref="char:EOLhyphen"/>cept St. <hi>John,</hi> is Confeſſed by theſe Fathers,</p>
+                  <p>
+                     <hi>Ignatius ad Philadelph, Clemens Stromat. lib.</hi> 7. <hi>Euſeb. Hiſtor. Eccleſ. lib.</hi> 3. <hi>c.</hi> 30. who report that St. <hi>Paul</hi> was Married; and St. <hi>Ambroſe</hi> in 2 <hi>Cor. c.</hi> 11. who acknow<g ref="char:EOLhyphen"/>ledges, that all the Apoſtles except St. <hi>John</hi> were Married.</p>
+                  <p>
+                     <hi>Fathers that were Married themſelves and yet were either Biſhops or Prieſts,</hi> &amp;c.</p>
+                  <p>
+                     <hi>Tertullian,</hi> as appears by his Two Books to his Wife, and yet he was a Prieſt, as ap<g ref="char:EOLhyphen"/>pears from St. <hi>Jerome, de Eccleſ. Script.</hi>
+                  </p>
+                  <p>
+                     <hi>Gregory Nazianzen</hi> was the Son of a Bi<g ref="char:EOLhyphen"/>ſhop, ſee <hi>Greg. Nazianz. in carmine de vita ſuâ, &amp; Elias Cretenſis in Orat. Greg. Nazianz.</hi>
+                  </p>
+                  <p>St. <hi>Hilary,</hi> Biſhop of <hi>Poictiers,</hi> was Married, as is evident from his Epiſtle written to his Daughter, <hi>Abrae,</hi> &amp;c.</p>
+                  <p>Fathers Voting for, or acknowledging Matrimony in the Clergy,</p>
+                  <p>
+                     <hi>Salvian de providentiâ l.</hi> 5. <hi>Ambroſe Offic. l.</hi> 1. <hi>c. ult. Chryſoſtome in Epiſt. ad Tit. Homil.</hi> 2. <hi>Id. in Epiſt. ad Hebraeos Homil.</hi> 7. <hi>Epiphanius contra Origenian.
+<pb n="39" facs="tcp:105532:33"/>Theodoret. in</hi> 1 <hi>Tim.</hi> 4. <hi>Iſidore Reg. de vit Cleric. diſt.</hi> 23. <hi>c. His igitur. Theo<g ref="char:EOLhyphen"/>phylact. in</hi> 1 <hi>Tim.</hi> 13. <hi>Bernard in Cant. Serm.</hi> 66. <hi>Aeneas Sylvius Epiſtol.</hi> 308. and he lived <hi>An. Dom.</hi> 1458.</p>
+                  <p>Marriage of the Clergy was not abſo<g ref="char:EOLhyphen"/>lutely forbidden by the <hi>Greeks</hi> in the laſt Age, as appears by the <hi>Patriarch Hieremias</hi>'s Letter to the <hi>Tubing</hi> Di<g ref="char:EOLhyphen"/>vines, dated <hi>May</hi> 15. 1576. <hi>Primum Patriar. Reſp. apud Chytrae. de ſtatu Eccleſ. Orient. p.</hi> 149.</p>
+                  <p>This Heretical Doctrine of forced Celi<g ref="char:EOLhyphen"/>bate in Eccleſiaſtics, was firſt eſtabliſhed at <hi>Rome</hi> by Pope <hi>Gregory</hi> the 7th. <hi>alias Hildebrand,</hi> termed Antichriſt by
+<note n="(94)" place="margin">
+                        <hi>Aventinus Anual Boiorum, l.</hi> 5. who tells us. That <hi>Hil<g ref="char:EOLhyphen"/>debrand</hi> con<g ref="char:EOLhyphen"/>feſſed, when he was dying, that it was by the inſtigation of the Devil that he made ſo great a diſturbance in the Chriſtian World. A fit Man then was he (whom the Papiſts ſtill cry up ſo much) to introduce unchaſt Ce<g ref="char:EOLhyphen"/>libate, and baniſh Holy Matrimony! See alſo Cardinal <hi>Benno</hi> (who knew him) <hi>in vita &amp; geſta Hildebrandi. Matth. Weſtmonaſt. An. Dom.</hi> 1074. who ſaith, That <hi>Hildebrand</hi> expell'd Married Prieſts (Mark what follows) <hi>contra Sanctorum Patrum ſententias,</hi> againſt the opinions of the Holy Fathers. See alſo <hi>Sigebert ad Annum</hi> 1074. <hi>&amp; Matth. Paris ad Annum</hi> 1074.</note> Ancient Hiſtorians about <hi>A. D.</hi> 1074. and was firſt put in practice to purpoſe by <hi>An<g ref="char:EOLhyphen"/>ſelm</hi> Arch-Biſhop of <hi>Canterbury</hi>
+                     <note n="(95)" place="margin">
+                        <hi>Henry Huntington</hi> p. 378. and by <hi>Joranal Hiſtor.</hi> The Conſtiutions or this Synod may be ſeen in Archbiſhop <hi>Parker</hi>'s <hi>Antiq. Britan. Ed.</hi> 2. p. 118, 119.</note> here in <hi>England,</hi> about <hi>A. D.</hi> 1105.
+<note n="(96)" place="margin">Dr. <hi>Burnet</hi>'s Abridgement of the Hiſtory of the Reformation l. 8. p. 70, <hi>&amp;c.</hi>
+                     </note> though ſome will have his Predeceſſor <hi>Lan<g ref="char:EOLhyphen"/>franc</hi>
+                     <pb n="40" facs="tcp:105532:34"/>to have impoſed it upon the Preben<g ref="char:EOLhyphen"/>daries and Clergy that lived in Towns, but not without great reluctancy. For what complaints, what Tragedies, what laſci<g ref="char:EOLhyphen"/>vious pranks this Devilliſh Doctrine occaſi<g ref="char:EOLhyphen"/>oned, the Hiſtorians declare at large; par<g ref="char:EOLhyphen"/>ticularly that Comical Story of the <hi>Italian</hi> Cardinal <hi>John de Crema,</hi> Recorded by Ancient
+<note n="(97)" place="margin">Roger Hovedon, Henry Huntington.</note> Popiſh Hiſtorians, who, after he had entertained the Engliſh Clergy with a fine Diſcourſe againſt Marriage, was the ſame night caught in Bed with a Har<g ref="char:EOLhyphen"/>lot in <hi>London;</hi> as if he would only com<g ref="char:EOLhyphen"/>mend Virginity to others and practiſe the contrary himſelf.</p>
+                  <p>That the Reader may know, what an Age this was, wherein the Celibate of the Clergy was eſtabliſhed, let him hear Car<g ref="char:EOLhyphen"/>dinal <hi>Bellarmin</hi> deſcribing and characteri<g ref="char:EOLhyphen"/>zing it in his Chronology. <hi>In theſe times</hi> (ſaith he) <hi>wherein the</hi> Roman <hi>Biſhops did degenerate from the Piety of the Ancients</hi> (mark that!) <hi>the ſecular Princes flouriſhed in Holineſs.</hi> You therefore ſee, that Prieſts Marriage was forbidden by impious Popes.</p>
+                  <p>And about the beginning of this con<g ref="char:EOLhyphen"/>tention, (<hi>viz.</hi> about <hi>An. Dom.</hi> 860) the Pope got a round check from <hi>
+                        <g ref="char:V">Ʋ</g>dalricus</hi> or
+<pb n="41" facs="tcp:105532:34"/>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>lric.</hi>
+                     <note n="(98)" place="margin">
+                        <hi>
+                           <g ref="char:V">Ʋ</g>dalri<g ref="char:EOLhyphen"/>cus</hi> (mention<g ref="char:EOLhyphen"/>ed by <hi>Aeneas Sylvius de mo<g ref="char:EOLhyphen"/>ribus Germa<g ref="char:EOLhyphen"/>niae) de Caeli<g ref="char:EOLhyphen"/>batu Clerici. Nunquid enim merito communi omnium ſapien<g ref="char:EOLhyphen"/>tum judicio haec eſt violen<g ref="char:EOLhyphen"/>tia, &amp;c.</hi>
+                     </note> a Biſhop of that time, who told him, <hi>That in the judgment of all wiſe men, it was to be accounted violence, when any man againſt Evangelical Inſtitution</hi> (mind that!) <hi>and the charge of the Holy Ghoſt, is conſtrained to the execution of pri<g ref="char:EOLhyphen"/>vate Decrees. The Lord in the old Law ap<g ref="char:EOLhyphen"/>pointed Marriage to his Prieſt, which he is never read afterwards to have forbidden.</hi>
+                  </p>
+                  <p>But not to inſiſt upon this clear teſtimo<g ref="char:EOLhyphen"/>mony for the Doctrine and Practice of our Church, nor to mention the many other ill conſequences of a Celibate in the Clergy (which occaſion in other Countries, where Popiſh Religion is publickly profeſſed, that Satyrical Proverb to be <hi>Fils de preſtre</hi>) by ſome of the moſt eminent men in the <hi>Ro<g ref="char:EOLhyphen"/>man</hi> Church, and thoſe too of a late date, it is</p>
+                  <p>Confeſſed,</p>
+                  <p>That Prieſthood doth not diſſolve Mar<g ref="char:EOLhyphen"/>riage; ſo Cardinal <hi>Cajetan, Tom.</hi> 1. <hi>Tract.</hi> 27.</p>
+                  <p>Nor</p>
+                  <p>That it is of the eſſence (or being) of a Prieſt to keep ſingle; ſo <hi>Dominicus Soto l.</hi> 7. <hi>de Jure Qu.</hi> 4.</p>
+                  <p>Moreover that upſtart practice in the <hi>Roman</hi> Church of <hi>Auricular Confeſſion,</hi> wherein
+<note n="(99)" place="margin">
+                        <hi>Concil. Trident. Seſſ.</hi> 14. <hi>de poeni<g ref="char:EOLhyphen"/>tentiâ.</hi>
+                     </note> every Chriſtian is bound under pain of Damnation, to confeſs to a
+<pb n="42" facs="tcp:105532:35"/>Prieſt all his mortal Sins, which after a diligent examination he can poſſibly re<g ref="char:EOLhyphen"/>member; yea, even his moſt ſecret ſins, his very thoughts, yea, and all the cir<g ref="char:EOLhyphen"/>cumſtances of them which are of any mo<g ref="char:EOLhyphen"/>ment, is a ſlavery as great as groundleſs. Then not to mention its ill aſpect upon Government, as being made an engine of ſtate, and a Picklock of the Cabinets of Princes, ſealing up all things from the no<g ref="char:EOLhyphen"/>tice of the Magiſtrate, but in requital of that, making a liberal diſcovery of what is againſt him to others. A pregnant in<g ref="char:EOLhyphen"/>ſtance of which horrid conſequence was that damnable Treaſon deſigned by <hi>Gun<g ref="char:EOLhyphen"/>powder</hi> againſt the Perſon of King <hi>James</hi> the Firſt (of bleſſed Memory) and the two Houſes of Parliament, to which the Pope himſelf, as we
+<note n="(100)" place="margin">
+                        <hi>Del<g ref="char:EOLhyphen"/>rio diſq. Magic. l.</hi> 6. <hi>c.</hi> 1.</note> are credibly inform<g ref="char:EOLhyphen"/>ed, was not only privy, but its director too. Purſuant thereof, that Pope (<hi>Clement</hi> VIII.) a little before that time gave order, That no Prieſt ſhould diſcover any thing that came to his Knowledg in Confeſſion, to the benefit of the Secular Government.</p>
+                  <p>I think there needs no better evidence of the Pope's good intentions towards the Se<g ref="char:EOLhyphen"/>cular Government, nor what ill effects the practice of this ſort of Confeſſion can and may produce than this. And, that it ſtill
+<pb n="43" facs="tcp:105532:35"/>may be uſed as an Inſtrument in procuring the ruine of Princes, and ſubverſion of Kingdoms, Let us hear their (<hi>i. e.</hi> the Popiſh) Doctors opinion of its virtue and uſe.</p>
+                  <p>One of them (then) tells us, That <hi>the Seal of</hi> Auricular Confeſſion (which they hold to be of Divine Inſtitution) <hi>is ſo Sacred, that it may not be broken open to ſave</hi>
+                     <note n="(101)" place="margin">
+                        <hi>Tolet. Inſtruct. Sa<g ref="char:EOLhyphen"/>cerd. l.</hi> 3. <hi>c.</hi> 16.</note> 
+                     <hi>the Lives of Princes, or of the whole Commonwealth.</hi> Another
+<note n="(102)" place="margin">
+                        <hi>Henri<g ref="char:EOLhyphen"/>quez. de poenit. l.</hi> 2. <hi>c.</hi> 19. <hi>n.</hi> 5.</note> goes further, and ſaith, That <hi>the Seal of</hi> Confeſſion <hi>is not to be broken; no, not to ſave all the World.</hi>
+                  </p>
+                  <p>Here the Reader may ſee, (for this is not only the opinion of one or two private men, but runs with the ſtream of their
+<note n="(103)" place="margin">See <hi>Eudemon Jo<g ref="char:EOLhyphen"/>annes</hi> in his A<g ref="char:EOLhyphen"/>pology for <hi>Garnet, Binet, Suarez, &amp;c.</hi>
+                     </note> Writers) what may be expected from the Charity of their Popiſh Prieſts; what an unlucky tool <hi>Auricular Confeſſion</hi> is in
+<note n="(104)" place="margin">And yet they can ſay, that it is of Divine Right, See <hi>Biel l.</hi> 4. <hi>diſt.</hi> 17. <hi>Q.</hi> 1. <hi>&amp; Scotus ibid. &amp; Bonaventure ibid n.</hi> 72. which if it had been, the Fathers would never have writ againſt it, nor would it have been diſanhull'd: For private Confeſſion of crimes was a rogated a out <hi>An. Dom.</hi> 396. upon the diſcovery of a Whore<g ref="char:EOLhyphen"/>dom committed betwixt a Deacon and a Noble Woman, <hi>Hiſtor. Tripartit. l.</hi> 9. <hi>c.</hi> 35. And, though it was practiſed ſeveral years before, yet was it not enjoyn'd as a neceſſary Act of Salvation before the Council of <hi>Lateran, An. Dom.</hi> 1215. under Pope <hi>Innocent</hi> III, and therefore far from true Anti<g ref="char:EOLhyphen"/>quity!</note> their hands. Beſides, to how great an awe of, and reſpect for their
+<pb n="44" facs="tcp:105532:36"/>Confeſſor; (to whom they are bound, as I have already ſaid, to diſcover all their Sins under pain of Eternal Damnation) To what Pride and Inſolence, to what Luſt and Revenge, to what Avarice and Rapine are not only the meaneſt Men, but even Perſons that make the greateſt figure, expoſed unto, by <hi>Auricular Confeſ<g ref="char:EOLhyphen"/>ſion</hi> in Popiſh Churches! It is a ſlavery ſo great and intollerable, that the Iſraelitiſh Tasks in <hi>Egypt</hi> were a pleaſure, or (at leaſt) a divertiſement in compariſon of it.</p>
+               </div>
+               <div type="part">
+                  <head>
+                     <hi>Auricular Confeſſion</hi> to a Prieſt under point of Salvation and Damnation, and that people cannot be ſaved without it, is</head>
+                  <p>Contrary to Scripture,</p>
+                  <p>
+                     <hi>Iſai.</hi> 55.7. <hi>Acts</hi> 2.38, and <hi>c.</hi> 3.19. and <hi>c.</hi> 16.30, 31. <hi>Rom.</hi> 10.3.</p>
+                  <p>Contrary to the Fathers,</p>
+                  <p>(who when they did ſpeak of the neceſſi<g ref="char:EOLhyphen"/>ty of <hi>Confeſſion,</hi> generally meant Confeſſi<g ref="char:EOLhyphen"/>on before God only, or a publick acknow<g ref="char:EOLhyphen"/>ledgment of ſome publick crimes incurring the cenſure of <hi>Excommunication,</hi> and that in an Eccleſiaſtical Aſſembly)</p>
+                  <pb n="45" facs="tcp:105532:36"/>
+                  <p>
+                     <hi>Origen</hi> in <hi>Pſal.</hi> 37. <hi>Hom.</hi> 2. <hi>Cyprian de lapſis Serm.</hi> 5. <hi>Chryſoſtom Hom.</hi> 4. <hi>de La<g ref="char:EOLhyphen"/>zaro. Id. Hom.</hi> 2. in <hi>Pſal.</hi> 50. <hi>Homil.</hi> 31. in <hi>Epiſt. ad Hebraeos. Hom.</hi> 5. <hi>de in<g ref="char:EOLhyphen"/>comprehenſibili nat. Dei. Hom.</hi> 8. <hi>de paen. Hom. de poenit. &amp; Confeſſione. Auguſtin. Confeſſion. l.</hi> 10. <hi>c.</hi> 3.</p>
+               </div>
+               <div type="part">
+                  <head>
+                     <hi>Auricular Confeſſion</hi> acknowledged not to have been Inſtituted by our Saviour, and that it is not of Divine In<g ref="char:EOLhyphen"/>ſtitution, by theſe Learned <hi>Papiſts,</hi>
+                  </head>
+                  <p>Cardinal <hi>Cajetan</hi> in <hi>Joh.</hi> 20. <hi>Scotus</hi> in <hi>ſent.</hi> 4. <hi>diſt.</hi> 17. <hi>Q.</hi> 1. <hi>Maldon. in ſumma Qu.</hi> 18. <hi>Art.</hi> 4. <hi>Bell. de poenit. l.</hi> 1. <hi>c.</hi> 4.</p>
+                  <p>Acknowledged by others, That it is better to ſay, that it was Inſtituted rather by the Tradition of the Univerſal Church, than by the Authority of the <hi>Old</hi> and <hi>New Teſtament;</hi>
+                  </p>
+                  <p>And yet it is denyed, That this Tra<g ref="char:EOLhyphen"/>dition is Univerſal, and that it is not neceſſary amongſt the <hi>Greeks,</hi> becauſe this Cuſtom (<hi>i.e.</hi> of pri<g ref="char:EOLhyphen"/>vate Confeſſion) ſprung not up among them,</p>
+                  <p>
+                     <hi>de poenit. diſt.</hi> 5. <hi>in principio Gloſſ.</hi>
+                  </p>
+                  <pb n="46" facs="tcp:105532:37"/>
+                  <p>Again it is Confeſſed,</p>
+                  <p>That the Fathers ſcarce ſpeak of it as of a thing commanded, by <hi>Rhenanus in admonitione de Tertullian. Dogmat.</hi>
+                  </p>
+                  <p>Laſtly, It is Confeſſed,</p>
+                  <p>That we may obtain Pardon though our Mouths be ſilent, (then we do not con<g ref="char:EOLhyphen"/>feſs.) And our Lord doth ſhew, that a Sinner is not cleanſed by the Judgment of the Prieſt; but by the Bounty of Divine Grace.</p>
+                  <p>
+                     <hi>Gratian diſt.</hi> 1. <hi>cap. Convertimini.</hi>
+                  </p>
+                  <p>What claſhing and enterfering is here? Is this the pretended ſolid Union of the Popiſh Church in matters of Salvation, and which ſhe enjoyns under pain of Dam<g ref="char:EOLhyphen"/>nation? Have they no better Grounds for their Articles of Faith than theſe? Can <hi>Auricular Confeſſion</hi> be of Divine Inſtitu<g ref="char:EOLhyphen"/>tion, and yet neither be Inſtituted by our Bleſſed Saviour, nor mentioned by the Fathers as a Divine Precept, nor impoſed by an Univerſal Tradition of the Church? And laſtly, can it be neceſſary to Salvation, and yet we can obtain pardon of Sins with<g ref="char:EOLhyphen"/>out the uſe of it? Let any <hi>Papiſt</hi> reconcile me theſe, <hi>&amp; erit mihi magnus Apollo.</hi>
+                  </p>
+                  <pb n="47" facs="tcp:105532:37"/>
+                  <p>Conſult herein Biſhop <hi>Taylor</hi>'s <hi>Diſſua<g ref="char:EOLhyphen"/>ſive,</hi> Part 1. ch. 2. Sect. 2. <hi>F. White</hi> againſt Jeſuite <hi>Fiſher,</hi> p. 189.</p>
+                  <p>Concerning the Marriage of the Clergy, ſee Biſhop <hi>Jewel</hi>'s <hi>Defence of the Apology of the Church of</hi> England, Part 2. p. 180. and Part 5. p. 456. Biſhop <hi>Hall's Honour of the Married Clergy.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="10" type="section">
+               <head>SECT. X.</head>
+               <p>As I have all along ſhewed the vaſt dif<g ref="char:EOLhyphen"/>ference in Doctrines betwixt the Proteſtant Church of <hi>England</hi> and the Church of <hi>Rome:</hi> ſo will I put a Period to this Diſcourſe, after I have done the like in that of Obedience: Which I ſhall not (as I have hitherto) argue from the Articles and Homilies of our Church, the Decrees of their Church, the Writings of the Fa<g ref="char:EOLhyphen"/>thers, and from Ancient Councils, becauſe that hath been ſufficiently canvaſſed of late years; but only ſubjoyn the undeny<g ref="char:EOLhyphen"/>able Teſtimonies of King <hi>James</hi> I. and King <hi>Charles</hi> the Martyr, of ever-bleſſed Me<g ref="char:EOLhyphen"/>mories (and the Royal Grandfather and Father of our preſent Gracious Soveraign) to determin the Caſe of</p>
+               <pb n="48" facs="tcp:105532:38"/>
+               <p>
+                  <table>
+                     <row>
+                        <cell role="label">Proteſtants Loyalty </cell>
+                        <cell role="label">and Popiſh Rebellion.</cell>
+                     </row>
+                     <row>
+                        <cell>King <hi>Charles</hi> I. in his Excellent Book, entituled Εικον Βασιλικε, <hi>chap.</hi> 27. to our Late Gracious King (and then Prince of <hi>Wales</hi>) ſaith,</cell>
+                        <cell>King <hi>James</hi> I. in His Works, <hi>p.</hi> 504. ſaith,</cell>
+                     </row>
+                     <row>
+                        <cell>The beſt Profeſ<g ref="char:EOLhyphen"/>ſion of Religion, I have ever eſteemed that of the Church of <hi>England</hi> in which you have been edu<g ref="char:EOLhyphen"/>cated.
+<note n="(105)" place="margin">Yea it was but two days before his death, that he told the Princeſs <hi>Eliza<g ref="char:EOLhyphen"/>beth, That ſhe ſhould dye for maintaining the true Pro<g ref="char:EOLhyphen"/>teſtant Religi<g ref="char:EOLhyphen"/>on.</hi>
+                           </note> In this I charge you to perſevere, as coming neareſt to God's Word for Doctrine, and to the Primitive Example for Go<g ref="char:EOLhyphen"/>vernment. I tell you, I have tried it, and after much ſearch, and many diſputes, have con<g ref="char:EOLhyphen"/>cluded it to be the beſt in the World: keeping the middle<g ref="char:EOLhyphen"/>way between the</cell>
+                        <cell>As on one part, many honeſt men, ſeduced with ſome Errors of Popery, may yet remain good and faithful Subjects; ſo on the other part, none of thoſe that truly know and believe the whole grounds and School-conclu<g ref="char:EOLhyphen"/>ſions of their Do<g ref="char:EOLhyphen"/>ctrines, can ever ei<g ref="char:EOLhyphen"/>ther prove good Chriſtians or good Subjects.</cell>
+                     </row>
+                     <pb n="49" facs="tcp:105532:38"/>
+                     <row>
+                        <cell>pomp of Superſti<g ref="char:EOLhyphen"/>tious Tyranny, and the meanneſs of Fan<g ref="char:EOLhyphen"/>taſtic Anarchy.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ibid.</hi> Scarce any one who hath been a beginner or pro<g ref="char:EOLhyphen"/>ſecutor of this late War againſt the Church, the Laws and Me, was, or is a true Lover, Em<g ref="char:EOLhyphen"/>bracer or Practiſer of the Proteſtant Reli<g ref="char:EOLhyphen"/>gion eſtabliſhed in <hi>England.</hi>
+                        </cell>
+                        <cell>King <hi>Charles</hi> 1ſt. in his Solemn Decla<g ref="char:EOLhyphen"/>ration, <hi>October</hi> 23. 1642. ſaith, That there was a greater number of <hi>Papiſts</hi> in the Rebels Army than in His.</cell>
+                     </row>
+                     <row>
+                        <cell>To which I add <hi>(Solatii ergô)</hi> that excellent Expreſſion in His Majeſties firſt and moſt Gracious Speech to His Privy Council: I know the Principles of the Church of <hi>England</hi> are for Monarchy, and the Members of it have ſhewed themſelves good and</cell>
+                        <cell>To which may be added, That then they are guilty of this mortal Sin of O<g ref="char:EOLhyphen"/>bedience to a Prote<g ref="char:EOLhyphen"/>ſtant Prince, when they are not ſtrong enough to manage a Rebellion, <hi>Watſon's Quodli<g ref="char:EOLhyphen"/>bets, p.</hi> 255.</cell>
+                     </row>
+                     <pb n="50" facs="tcp:105532:39"/>
+                     <row>
+                        <cell>faithful Subjects, therefore ſhall I al<g ref="char:EOLhyphen"/>ways take care to de<g ref="char:EOLhyphen"/>fend and ſupport it.</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Theſe words deſerve to be written in Letters of Gold; however they are writ<g ref="char:EOLhyphen"/>ten in large Characters in good Proteſtants Hearts.</p>
+               <p>
+                  <hi>Now,</hi>
+                  <note place="margin">Jude 24, 25.</note> 
+                  <hi>
+                     <g ref="char:V">Ʋ</g>nto Him who is able to keep us from falling, and to preſent us faultleſs before the pre<g ref="char:EOLhyphen"/>ſence of His Glory with exceeding Joy, To the only Wiſe God our Saviour, be Glory and Majeſty, Dominion and Power, both now and ever,</hi> Amen.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:105532:39"/>
+            <head>Books Printed for, and Sold by <hi>RICHARD CHISWELL.</hi>
+            </head>
+            <list>
+               <head>FOLIO.</head>
+               <item>
+                  <hi>SPeed</hi>'s Maps and Geography of <hi>Great Britain</hi> and <hi>Ireland,</hi> and of Foreign Parts.</item>
+               <item>Dr. <hi>Cave</hi>'s Lives of the Primitive Fathers, in 2 Vol.</item>
+               <item>Dr. <hi>Cary</hi>'s Chronological Account of Ancient Time.</item>
+               <item>Bp. <hi>Wilkin</hi>'s real Character, or Philoſophical Language.</item>
+               <item>
+                  <hi>Hooker</hi>'s Eccleſiaſtical Polity.</item>
+               <item>
+                  <hi>Guillim</hi>'s Diſplay of Heraldry, with large Additions.</item>
+               <item>Dr. <hi>Burnet</hi>'s Hiſtory of the Reformation of the Church of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> in 2 Vol.</item>
+               <item>— Account of the Confeſſions and Prayers of the Murder<g ref="char:EOLhyphen"/>ers of Eſquire <hi>Thynn.</hi>
+               </item>
+               <item>
+                  <hi>Burlace</hi>'s Hiſtory of the Iriſh Rebellion.</item>
+               <item>
+                  <hi>Herodoti Hiſtoria, Gr. Lat. cum variis Lect.</hi>
+               </item>
+               <item>Lord <hi>Cook</hi>'s Reports, in Engliſh.</item>
+               <item>The Laws of this Realm concerning Jeſuits, Seminary Prieſts, Recuſants, the Oaths of Supremacy and Allegiance explain<g ref="char:EOLhyphen"/>ed by divers Judgments, and Reſolutions of the <hi>Judges;</hi> with other Obſervations thereupon, by <hi>William Cawley</hi> Eſq;</item>
+               <item>Dr. <hi>Alleſtree</hi>'s Sermons.</item>
+               <item>
+                  <hi>Sandford</hi>'s Genealogical Hiſtory of the Kings of <hi>England.</hi>
+               </item>
+               <item>Sir <hi>Tho. Robinſon</hi>'s Book of ſpecial Entries.</item>
+               <item>Modern Reports of ſelect Caſes in the Reign of K. <hi>Charles</hi> 2d.</item>
+               <item>Sir <hi>Humphry Wynch</hi>'s Book of Entries.</item>
+               <item>Sir <hi>Tho. Murray</hi>'s Collection of the Laws of <hi>Scotland.</hi>
+               </item>
+               <item>Dr. <hi>Towerſon</hi>'s Explication on the Creed, the Commandments, and Lords-Prayer, in 3 Vol.</item>
+               <item>Sir <hi>Walter Raleigh</hi>'s Hiſtory of the World.</item>
+               <item>The Hiſtory of the Iſland of <hi>CEYLON</hi> in the <hi>Eaſt-Indies:</hi> together with an Account of the detaining in Captivity di<g ref="char:EOLhyphen"/>vers Engliſh men now living there, and of the Authors mi<g ref="char:EOLhyphen"/>raculous eſcape: Illuſtrated with Copper Figures, and an exact Map of the Iſland, by Capt. <hi>Rob. Knox,</hi> a Captive there near 20 years.</item>
+            </list>
+            <list>
+               <head>Q<g ref="char:V">Ʋ</g>ARTO.</head>
+               <item>DR. <hi>Littleton</hi>'s Dictionary, Latin and Engliſh.</item>
+               <item>Biſhop <hi>Nicholſon</hi> on the Church-Catechiſm.</item>
+               <item>Hiſtory of the late Wars of <hi>New-England.</hi>
+               </item>
+               <item>Dr. <hi>Outram de Sacrificiis.</hi>
+               </item>
+               <pb facs="tcp:105532:40"/>
+               <item>
+                  <hi>Parker</hi>'s <hi>Diſputationes de Deo.</hi>
+               </item>
+               <item>
+                  <hi>Atwell</hi>'s Faithful Surveyer.</item>
+               <item>
+                  <hi>Cole</hi>'s Latin Dictionary.</item>
+               <item>Mr. <hi>Camfield</hi>'s Sermon upon occaſion of the great Snow and Froſt in 1683.</item>
+               <item>Dr. <hi>William Cave</hi>'s Sermon at Court, <hi>Jan.</hi> 18. 1685.</item>
+               <item>Dr. <hi>Vincent</hi>'s Right Notion of Honour, a Sermon before the King at <hi>New-Market,</hi> 1674. with Annotations.</item>
+               <item>The Magiſtrates Authority aſſerted, by <hi>James Paſton.</hi>
+               </item>
+               <item>Dr. <hi>Janes</hi> Faſt Sermon before the Commons, 1679.</item>
+               <item>Mr. <hi>John James</hi> Viſitation Sermon, <hi>April</hi> 9. 1671.</item>
+               <item>Mr. <hi>John Caves</hi> Faſt Sermon on the 30th of <hi>Jan.</hi> 1679.</item>
+               <item>— Aſſize Sermon at <hi>Leiceſter, July</hi> 31. 1679.</item>
+               <item>— Two Thankſgiving Sermons on the 2d and 9th of <hi>Sep<g ref="char:EOLhyphen"/>tember,</hi> 1683.</item>
+               <item>— Sermon at the Funeral of Mr. <hi>Wollaſton,</hi> 1685.</item>
+               <item>— Two Sermons of the Duty and Benefit of ſubmiſſion to the Will of God in afflictions.</item>
+               <item>Dr. <hi>Crawford</hi>'s Serious Expoſtulation with the Whigs in <hi>Scot<g ref="char:EOLhyphen"/>land.</hi>
+               </item>
+               <item>Mr. <hi>Newtons</hi> Sermon upon occaſion of <hi>Eliz. Ridgeways</hi> Poy<g ref="char:EOLhyphen"/>ſoning her Husband, 1684.</item>
+               <item>Dr. <hi>Parkers</hi> Demonſtration of the Divine Authority of the Law of Nature, and the Chriſtian Religion.</item>
+               <item>
+                  <hi>Speculum Baxterianum,</hi> or <hi>Baxter</hi> againſt <hi>Baxter.</hi>
+               </item>
+               <item>Mr. <hi>Hook</hi>'s new Philoſophical Collections.</item>
+               <item>
+                  <hi>Bibliotheca Norfolciana.</hi>
+               </item>
+               <item>
+                  <hi>Godwin</hi>'s Roman Antiquities.</item>
+            </list>
+            <list>
+               <head>OCTAVO.</head>
+               <item>BIſhop <hi>Wilkins</hi> Natural Religion.</item>
+               <item>His Fifteen Sermons.</item>
+               <item>Mr. <hi>Tanner's Primordia:</hi> Or, the Riſe and Growth of the firſt Church of God deſcribed.</item>
+               <item>Lord <hi>Hollis</hi>'s Vindication of the Judicature of the Houſe of Peers, in the Caſe of <hi>Skinner.</hi>
+               </item>
+               <item>— Juriſdiction of the Houſe of Peers in caſe of Appeals.</item>
+               <item>— Juriſdiction of the Houſe of Peers in caſe of Impoſitions.</item>
+               <item>— Letters about the Biſhops Vores in Capital Caſes.</item>
+               <item>Dr. <hi>Grews</hi> Idea of Philogical Hiſtory on Roots.</item>
+               <item>
+                  <hi>Spaniards</hi> Conſpiracy againſt the State of <hi>Venice.</hi>
+               </item>
+               <item>Dr. <hi>Browns Religio Medici:</hi> with <hi>Digby</hi>'s Obſervations.</item>
+               <item>Dr. <hi>Sympſons</hi> Chymical Anatomy of the <hi>York-ſhire</hi> Spaws: with a Diſcourſe of the Original of Hot Springs and other Foun<g ref="char:EOLhyphen"/>tains.</item>
+               <item>Dr. <hi>Caves</hi> Primitive Chriſtianity, in three parts.</item>
+               <item>
+                  <hi>Ignatius Fuller</hi>'s Sermons of Peace and Holineſs.</item>
+               <pb facs="tcp:105532:40"/>
+               <item>Phraſes in <hi>
+                     <g ref="char:V">Ʋ</g>ſum Scholae Wintonienſis.</hi>
+               </item>
+               <item>Dr. <hi>Samways</hi> Unreaſonableneſs of the Romaniſts:</item>
+               <item>Record of Urins.</item>
+               <item>The Trials of the Regicides, in 1660.</item>
+               <item>Certain gemaine Remains of the Lord <hi>Bacon,</hi> in Arguments Civil, Moral, Natural, <hi>&amp;c.</hi> with a large account of all his Works. By Dr. <hi>Tho. Tenniſon.</hi>
+               </item>
+               <item>Dr. <hi>Pullers</hi> Diſcourſe of the Moderation of the Church of <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+               </item>
+               <item>Sir <hi>John Mounſon</hi>'s Diſcourſe of Supream Power and Common Right.</item>
+               <item>Dr. <hi>Henry Bagſhaws</hi> Diſcourſe on ſelect Texts.</item>
+               <item>Mr. <hi>Sellers</hi> Remarks, relating to the State of the Church in the three firſt Centuries.</item>
+               <item>The Country-mans Phyſician.</item>
+               <item>Dr. <hi>Burnets</hi> Account of the Life and Death of the Earl of <hi>Re<g ref="char:EOLhyphen"/>cheſter.</hi>
+               </item>
+               <item>— Vindication of the Ordination of the Church of <hi>England.</hi>
+               </item>
+               <item>— Hiſtory of the Rights of Princes in the Diſpoſing of Ec<g ref="char:EOLhyphen"/>cleſiaſtical Benefices and Church-lands.</item>
+               <item>— Relation of the preſent ſtate of the difference between the <hi>French</hi> King and the Court of <hi>Rome;</hi> to which is added, the Popes Brief to the Aſſembly of the Clergy, and their Proteſtation, publiſhed by Dr. <hi>Burnet.</hi>
+               </item>
+               <item>— Abridgment of the Hiſtory of the Reformation.</item>
+               <item>Mr. <hi>Camfields</hi> Diſcourſes of Epiſcopal Confirmation.</item>
+               <item>
+                  <hi>Ogleby</hi>'s <hi>Aefops Fables</hi> paraphraſed in Verſe, and adorned with Sculptures and Annotations, in a Vol.</item>
+               <item>Dr. <hi>Cumbers</hi> Companion to the Altar.</item>
+               <item>
+                  <hi>Galliard</hi>'s 2 Diſcourſes of Private ſettlement at Home after Travel, and of Him who is in Publick Employments.</item>
+               <item>
+                  <hi>Markhams</hi> Perfect Horſeman.</item>
+               <item>Dr. <hi>Sherlocks</hi> Practical Diſcourſe of Religious Aſſemblies.</item>
+               <item>— Defence of Dr. <hi>Stilling fleet</hi>'s Unreaſonableneſs of Separa<g ref="char:EOLhyphen"/>tion.</item>
+               <item>— A Vindication of the Defence of Dr. <hi>Stillingfleet,</hi> in An<g ref="char:EOLhyphen"/>ſwer to Mr. <hi>Baxter</hi> and Mr. <hi>Lob</hi> about Catholick Communion.</item>
+               <item>The Hiſtory of the Houſe of <hi>Eſtee,</hi> the Family of the Dutcheſs of <hi>York.</hi>
+               </item>
+               <item>Sir <hi>Rob. Filmer</hi>'s <hi>Patriarcha,</hi> or Natural Power of Kings.</item>
+               <item>Mr. <hi>John Caves</hi> Goſpel to the <hi>Romans.</hi>
+               </item>
+               <item>
+                  <hi>Lawrences</hi> Intereſt of <hi>Ireland</hi> in its Trade and Wealth ſtated.</item>
+            </list>
+            <pb facs="tcp:105532:41"/>
+            <list>
+               <head>D<g ref="char:V">Ʋ</g>ODECIMO.</head>
+               <item>
+                  <hi>Hodders</hi> Arithmetick.</item>
+               <item>
+                  <hi>Grotius de Veritate Religionis Chriſtianae.</hi>
+               </item>
+               <item>An Apology for a Treatiſe of Humane Reaſon, written by <hi>M. Cliford</hi> Eſq;.</item>
+               <item>
+                  <hi>Queen-like-Cloſet,</hi> both parts.</item>
+               <item>Biſhop <hi>Wettenhalls</hi> Method and Order for Private Devotion.</item>
+            </list>
+            <list>
+               <head>VICESIMO Q<g ref="char:V">Ʋ</g>ARTO.</head>
+               <item>
+                  <hi>VAlentines</hi> Devotions.</item>
+               <item>
+                  <hi>Pharmacopoeia Collegii Londinenſis reformata.</hi>
+               </item>
+               <item>
+                  <hi>Crums of Comfort.</hi>
+               </item>
+            </list>
+            <div type="part">
+               <head>
+                  <hi>Books lately Printed for</hi> Richard Chiſwell.</head>
+               <list>
+                  <head>FOLIO.</head>
+                  <item>DR. <hi>Spencer de Legibus Hebraeorum Ritualibus &amp; earum Ra<g ref="char:EOLhyphen"/>tionibus.</hi>
+                  </item>
+                  <item>Sir <hi>James Turner</hi>'s <hi>Pallas Armata,</hi> or Military Eſſays of the Ancient <hi>Grecian, Roman,</hi> and Modern Art of War.</item>
+                  <item>Dr. <hi>John Lightfoot</hi>'s Works in <hi>Engliſh,</hi> in 2 Volumes.</item>
+                  <item>Mr. <hi>Selden</hi>'s <hi>Janus Anglorum</hi> Engliſhed, with Notes: To which is added his <hi>Epinomis,</hi> concerning the ancient Government and Laws of this Kingdom, never before extant. Alſo two other Treatiſes written by the ſame Author: One of the O<g ref="char:EOLhyphen"/>riginal of Eccleſiaſtical Juriſdictions of Teſtaments; the other of the Diſpoſition or Adminiſtration of Inteſtates Goods; Now the firſt time publiſhed.</item>
+               </list>
+               <list>
+                  <head>Q<g ref="char:V">Ʋ</g>ARTO.</head>
+                  <item>
+                     <hi>PAtris Simonii Diſquiſitiones Criticae de Variis per diverſa Loca &amp; Tempora Bibliorum Editionibus. Accedunt Caſtigat. Opuſe. Iſ. Voſſii de Sibyllinis Oraculis.</hi>
+                  </item>
+                  <item>Dr. <hi>Falkners</hi> Two Treatiſes of Reproaching and Cenſure: with His Anſwer to <hi>Serjeant</hi>'s <hi>Surefooting,</hi> and ſeveral oc<g ref="char:EOLhyphen"/>caſional Sermons.</item>
+                  <item>The Caſe of Lay-Communion with the Church of <hi>England</hi> conſidered.</item>
+                  <item>A Diſcourſe concerning the Celebration of Divine Service in an Unknown Tongue.</item>
+                  <item>A Diſcourſe of the Neceſſity of Reformation, with reſpect to the Errors and Corruptions of the Church of <hi>Rome.</hi>
+                  </item>
+               </list>
+               <pb facs="tcp:105532:41"/>
+               <list>
+                  <head>OCTAVO.</head>
+                  <item>DR. <hi>William Caves</hi> Diſſertation concerning the Government of the Ancient Church by Biſhops, Metropolitans and Patriarchs.</item>
+                  <item>Two Letters betwixt Mr. <hi>R. Smith</hi> and Dr. <hi>Hen. Hammond</hi> a<g ref="char:EOLhyphen"/>bout Chriſts Deſcent into Hell.</item>
+                  <item>Dean <hi>Stratfords</hi> diſſwaſive from Revenge.</item>
+                  <item>The Life of Biſhop <hi>Bedel.</hi>
+                  </item>
+                  <item>Dr. <hi>Harris</hi> his Rational Diſcourſe of Remedies.</item>
+                  <item>Sir <hi>George Mackenzy</hi>'s Juſt Right of Monarchy.</item>
+                  <item>— Defence of the Antiquity of the Royal Line of <hi>Scotland.</hi>
+                  </item>
+                  <item>Dr. <hi>Hez. Burtons</hi> firſt Volume of Diſcourſes, of Purity and Charity; of Repentance and of ſeeking the Kingdom of God; publiſhed by Dean <hi>Tillotſon.</hi>
+                  </item>
+                  <item>—His ſecond Vol. of Diſcourſes upon divers other Practi<g ref="char:EOLhyphen"/>cal Subjects.</item>
+                  <item>Sir <hi>Thomas More</hi>'s <hi>
+                        <g ref="char:V">Ʋ</g>topia,</hi> newly made Engliſh.</item>
+                  <item>Biſhop <hi>Jewels</hi> Apology for the Church of <hi>England,</hi> with his Life, by a perſon of Quality.</item>
+               </list>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
